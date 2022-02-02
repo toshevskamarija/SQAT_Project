@@ -1,0 +1,1351 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1643794335300,5067,Novo,200,OK,Thread Group 1-27,text,true,,383876,252,30,30,https://cityfashion.mk/novo/,21,0,11
+1643794335300,21,Novo-0,301,Moved Permanently,Thread Group 1-27,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,21,0,11
+1643794335321,5046,Novo-1,200,OK,Thread Group 1-27,text,true,,383518,124,30,30,https://cityfashion.mk/novo/,4816,0,1387
+1643794335137,5280,Novo,200,OK,Thread Group 1-22,text,true,,383899,252,30,30,https://cityfashion.mk/novo/,255,0,12
+1643794335137,255,Novo-0,301,Moved Permanently,Thread Group 1-22,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,255,0,12
+1643794335393,5024,Novo-1,200,OK,Thread Group 1-22,text,true,,383541,124,30,30,https://cityfashion.mk/novo/,4744,0,1309
+1643794334971,5555,Novo,200,OK,Thread Group 1-17,text,true,,383907,252,30,30,https://cityfashion.mk/novo/,21,0,10
+1643794334971,21,Novo-0,301,Moved Permanently,Thread Group 1-17,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,21,0,10
+1643794334992,5534,Novo-1,200,OK,Thread Group 1-17,text,true,,383549,124,30,30,https://cityfashion.mk/novo/,5181,0,1707
+1643794335401,5239,Novo,200,OK,Thread Group 1-30,text,true,,383868,252,30,30,https://cityfashion.mk/novo/,29,0,15
+1643794335401,29,Novo-0,301,Moved Permanently,Thread Group 1-30,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,29,0,15
+1643794335431,5209,Novo-1,200,OK,Thread Group 1-30,text,true,,383510,124,30,30,https://cityfashion.mk/novo/,4811,0,1274
+1643794335367,5311,Novo,200,OK,Thread Group 1-29,text,true,,383868,252,30,30,https://cityfashion.mk/novo/,23,0,10
+1643794335367,23,Novo-0,301,Moved Permanently,Thread Group 1-29,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,23,0,10
+1643794335390,5288,Novo-1,200,OK,Thread Group 1-29,text,true,,383510,124,30,30,https://cityfashion.mk/novo/,4942,0,1317
+1643794335038,5698,Novo,200,OK,Thread Group 1-19,text,true,,383861,252,30,30,https://cityfashion.mk/novo/,27,0,14
+1643794335038,27,Novo-0,301,Moved Permanently,Thread Group 1-19,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,27,0,14
+1643794335066,5670,Novo-1,200,OK,Thread Group 1-19,text,true,,383503,124,30,30,https://cityfashion.mk/novo/,5340,0,1633
+1643794334574,6165,Novo,200,OK,Thread Group 1-4,text,true,,383861,252,30,30,https://cityfashion.mk/novo/,212,0,186
+1643794334574,216,Novo-0,301,Moved Permanently,Thread Group 1-4,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,212,0,186
+1643794334793,5946,Novo-1,200,OK,Thread Group 1-4,text,true,,383503,124,30,30,https://cityfashion.mk/novo/,5623,0,1906
+1643794335070,5677,Novo,200,OK,Thread Group 1-20,text,true,,383868,252,30,30,https://cityfashion.mk/novo/,24,0,11
+1643794335070,24,Novo-0,301,Moved Permanently,Thread Group 1-20,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,24,0,11
+1643794335095,5652,Novo-1,200,OK,Thread Group 1-20,text,true,,383510,124,30,30,https://cityfashion.mk/novo/,5223,0,1607
+1643794334807,5943,Novo,200,OK,Thread Group 1-12,text,true,,383893,252,30,30,https://cityfashion.mk/novo/,31,0,10
+1643794334807,31,Novo-0,301,Moved Permanently,Thread Group 1-12,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,31,0,10
+1643794334840,5910,Novo-1,200,OK,Thread Group 1-12,text,true,,383535,124,30,30,https://cityfashion.mk/novo/,5594,0,1869
+1643794334641,7163,Novo,200,OK,Thread Group 1-7,text,true,,383899,252,30,30,https://cityfashion.mk/novo/,144,0,115
+1643794334641,149,Novo-0,301,Moved Permanently,Thread Group 1-7,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,144,0,115
+1643794334793,7011,Novo-1,200,OK,Thread Group 1-7,text,true,,383541,124,30,30,https://cityfashion.mk/novo/,6918,0,1913
+1643794334574,8850,Novo,200,OK,Thread Group 1-3,text,true,,383899,252,30,30,https://cityfashion.mk/novo/,212,0,183
+1643794334574,216,Novo-0,301,Moved Permanently,Thread Group 1-3,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,212,0,183
+1643794334795,8629,Novo-1,200,OK,Thread Group 1-3,text,true,,383541,124,30,30,https://cityfashion.mk/novo/,8539,0,1915
+1643794335335,8279,Novo,200,OK,Thread Group 1-28,text,true,,383899,252,30,30,https://cityfashion.mk/novo/,25,0,10
+1643794335335,25,Novo-0,301,Moved Permanently,Thread Group 1-28,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,25,0,10
+1643794335361,8253,Novo-1,200,OK,Thread Group 1-28,text,true,,383541,124,30,30,https://cityfashion.mk/novo/,8107,0,1347
+1643794335169,8458,Novo,200,OK,Thread Group 1-23,text,true,,383899,252,30,30,https://cityfashion.mk/novo/,30,0,13
+1643794335169,30,Novo-0,301,Moved Permanently,Thread Group 1-23,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,30,0,13
+1643794335200,8427,Novo-1,200,OK,Thread Group 1-23,text,true,,383541,124,30,30,https://cityfashion.mk/novo/,8260,0,1509
+1643794335206,8486,Novo,200,OK,Thread Group 1-24,text,true,,383876,252,30,30,https://cityfashion.mk/novo/,26,0,12
+1643794335206,26,Novo-0,301,Moved Permanently,Thread Group 1-24,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,26,0,12
+1643794335232,8460,Novo-1,200,OK,Thread Group 1-24,text,true,,383518,124,30,30,https://cityfashion.mk/novo/,8320,0,1483
+1643794335235,8669,Novo,200,OK,Thread Group 1-25,text,true,,383922,252,30,30,https://cityfashion.mk/novo/,22,0,10
+1643794335235,22,Novo-0,301,Moved Permanently,Thread Group 1-25,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,22,0,10
+1643794335258,8646,Novo-1,200,OK,Thread Group 1-25,text,true,,383564,124,30,30,https://cityfashion.mk/novo/,8509,0,1456
+1643794334576,9335,Novo,200,OK,Thread Group 1-5,text,true,,383868,252,30,30,https://cityfashion.mk/novo/,210,0,180
+1643794334576,214,Novo-0,301,Moved Permanently,Thread Group 1-5,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,210,0,180
+1643794334795,9116,Novo-1,200,OK,Thread Group 1-5,text,true,,383510,124,30,30,https://cityfashion.mk/novo/,8984,0,1918
+1643794334708,9340,Novo,200,OK,Thread Group 1-9,text,true,,383892,252,30,30,https://cityfashion.mk/novo/,77,0,48
+1643794334708,82,Novo-0,301,Moved Permanently,Thread Group 1-9,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,77,0,48
+1643794334793,9255,Novo-1,200,OK,Thread Group 1-9,text,true,,383534,124,30,30,https://cityfashion.mk/novo/,9129,0,1918
+1643794334907,9181,Novo,200,OK,Thread Group 1-15,text,true,,383891,252,30,30,https://cityfashion.mk/novo/,25,0,12
+1643794334907,25,Novo-0,301,Moved Permanently,Thread Group 1-15,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,25,0,12
+1643794334933,9155,Novo-1,200,OK,Thread Group 1-15,text,true,,383533,124,30,30,https://cityfashion.mk/novo/,9018,0,1784
+1643794335105,9078,Novo,200,OK,Thread Group 1-21,text,true,,383922,252,30,30,https://cityfashion.mk/novo/,31,0,15
+1643794335105,31,Novo-0,301,Moved Permanently,Thread Group 1-21,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,31,0,15
+1643794335137,9046,Novo-1,200,OK,Thread Group 1-21,text,true,,383564,124,30,30,https://cityfashion.mk/novo/,8932,0,1571
+1643794334874,9835,Novo,200,OK,Thread Group 1-14,text,true,,383899,252,30,30,https://cityfashion.mk/novo/,27,0,12
+1643794334874,27,Novo-0,301,Moved Permanently,Thread Group 1-14,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,27,0,12
+1643794334901,9808,Novo-1,200,OK,Thread Group 1-14,text,true,,383541,124,30,30,https://cityfashion.mk/novo/,9702,0,1814
+1643794334609,12028,Novo,200,OK,Thread Group 1-6,text,true,,383899,252,30,30,https://cityfashion.mk/novo/,177,0,148
+1643794334609,181,Novo-0,301,Moved Permanently,Thread Group 1-6,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,177,0,148
+1643794334793,11844,Novo-1,200,OK,Thread Group 1-6,text,true,,383541,124,30,30,https://cityfashion.mk/novo/,11712,0,1920
+1643794334939,11932,Novo,200,OK,Thread Group 1-16,text,true,,383876,252,30,30,https://cityfashion.mk/novo/,20,0,10
+1643794334939,20,Novo-0,301,Moved Permanently,Thread Group 1-16,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,20,0,10
+1643794334960,11911,Novo-1,200,OK,Thread Group 1-16,text,true,,383518,124,30,30,https://cityfashion.mk/novo/,11793,0,1757
+1643794334574,12441,Novo,200,OK,Thread Group 1-1,text,true,,383899,252,30,30,https://cityfashion.mk/novo/,212,0,183
+1643794334574,216,Novo-0,301,Moved Permanently,Thread Group 1-1,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,212,0,183
+1643794334794,12221,Novo-1,200,OK,Thread Group 1-1,text,true,,383541,124,30,30,https://cityfashion.mk/novo/,12072,0,1920
+1643794334842,12265,Novo,200,OK,Thread Group 1-13,text,true,,383868,252,30,30,https://cityfashion.mk/novo/,29,0,12
+1643794334842,29,Novo-0,301,Moved Permanently,Thread Group 1-13,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,29,0,12
+1643794334872,12235,Novo-1,200,OK,Thread Group 1-13,text,true,,383510,124,30,30,https://cityfashion.mk/novo/,12063,0,1841
+1643794334676,12476,Novo,200,OK,Thread Group 1-8,text,true,,383876,252,30,30,https://cityfashion.mk/novo/,110,0,80
+1643794334676,114,Novo-0,301,Moved Permanently,Thread Group 1-8,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,110,0,80
+1643794334793,12359,Novo-1,200,OK,Thread Group 1-8,text,true,,383518,124,30,30,https://cityfashion.mk/novo/,12138,0,1923
+1643794334741,12510,Novo,200,OK,Thread Group 1-10,text,true,,383900,252,30,30,https://cityfashion.mk/novo/,44,0,16
+1643794334741,49,Novo-0,301,Moved Permanently,Thread Group 1-10,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,44,0,16
+1643794334795,12456,Novo-1,200,OK,Thread Group 1-10,text,true,,383542,124,30,30,https://cityfashion.mk/novo/,12242,0,1917
+1643794335005,12415,Novo,200,OK,Thread Group 1-18,text,true,,383861,252,30,30,https://cityfashion.mk/novo/,32,0,15
+1643794335005,32,Novo-0,301,Moved Permanently,Thread Group 1-18,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,32,0,15
+1643794335038,12382,Novo-1,200,OK,Thread Group 1-18,text,true,,383503,124,30,30,https://cityfashion.mk/novo/,12184,0,1678
+1643794334574,12883,Novo,200,OK,Thread Group 1-2,text,true,,383899,252,30,30,https://cityfashion.mk/novo/,211,0,182
+1643794334574,216,Novo-0,301,Moved Permanently,Thread Group 1-2,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,211,0,182
+1643794334796,12661,Novo-1,200,OK,Thread Group 1-2,text,true,,383541,124,30,30,https://cityfashion.mk/novo/,12509,0,1920
+1643794335267,12640,Novo,200,OK,Thread Group 1-26,text,true,,383899,252,30,30,https://cityfashion.mk/novo/,29,0,15
+1643794335267,29,Novo-0,301,Moved Permanently,Thread Group 1-26,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,29,0,15
+1643794335297,12610,Novo-1,200,OK,Thread Group 1-26,text,true,,383541,124,30,30,https://cityfashion.mk/novo/,12480,0,1417
+1643794334777,13256,Novo,200,OK,Thread Group 1-11,text,true,,383876,252,30,30,https://cityfashion.mk/novo/,32,0,19
+1643794334777,32,Novo-0,301,Moved Permanently,Thread Group 1-11,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,32,0,19
+1643794334810,13223,Novo-1,200,OK,Thread Group 1-11,text,true,,383518,124,30,30,https://cityfashion.mk/novo/,13086,0,1907
+1643794340640,10430,Mazi,200,OK,Thread Group 1-30,text,true,,392962,286,30,30,https://cityfashion.mk/product-category/mazi/,73,0,0
+1643794340640,73,Mazi-0,301,Moved Permanently,Thread Group 1-30,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,73,0,0
+1643794340713,10357,Mazi-1,200,OK,Thread Group 1-30,text,true,,392587,141,30,30,https://cityfashion.mk/product-category/mazi/,10187,0,0
+1643794340526,10580,Mazi,200,OK,Thread Group 1-17,text,true,,392954,286,30,30,https://cityfashion.mk/product-category/mazi/,74,0,0
+1643794340526,74,Mazi-0,301,Moved Permanently,Thread Group 1-17,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,74,0,0
+1643794340601,10505,Mazi-1,200,OK,Thread Group 1-17,text,true,,392579,141,30,30,https://cityfashion.mk/product-category/mazi/,10321,0,0
+1643794340737,10385,Mazi,200,OK,Thread Group 1-19,text,true,,392947,286,30,30,https://cityfashion.mk/product-category/mazi/,12,0,0
+1643794340737,12,Mazi-0,301,Moved Permanently,Thread Group 1-19,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,12,0,0
+1643794340750,10372,Mazi-1,200,OK,Thread Group 1-19,text,true,,392572,141,30,30,https://cityfashion.mk/product-category/mazi/,10202,0,0
+1643794340678,10603,Mazi,200,OK,Thread Group 1-29,text,true,,392954,286,30,30,https://cityfashion.mk/product-category/mazi/,46,0,0
+1643794340678,46,Mazi-0,301,Moved Permanently,Thread Group 1-29,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,46,0,0
+1643794340724,10557,Mazi-1,200,OK,Thread Group 1-29,text,true,,392579,141,30,30,https://cityfashion.mk/product-category/mazi/,10396,0,0
+1643794340368,11003,Mazi,200,OK,Thread Group 1-27,text,true,,392970,286,30,30,https://cityfashion.mk/product-category/mazi/,69,0,0
+1643794340368,69,Mazi-0,301,Moved Permanently,Thread Group 1-27,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,69,0,0
+1643794340437,10934,Mazi-1,200,OK,Thread Group 1-27,text,true,,392595,141,30,30,https://cityfashion.mk/product-category/mazi/,10773,0,0
+1643794340418,10995,Mazi,200,OK,Thread Group 1-22,text,true,,392947,286,30,30,https://cityfashion.mk/product-category/mazi/,56,0,0
+1643794340418,56,Mazi-0,301,Moved Permanently,Thread Group 1-22,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,56,0,0
+1643794340474,10939,Mazi-1,200,OK,Thread Group 1-22,text,true,,392572,141,30,30,https://cityfashion.mk/product-category/mazi/,10794,0,0
+1643794340751,11709,Mazi,200,OK,Thread Group 1-12,text,true,,392995,286,30,30,https://cityfashion.mk/product-category/mazi/,20,0,0
+1643794340751,20,Mazi-0,301,Moved Permanently,Thread Group 1-12,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,20,0,0
+1643794340771,11689,Mazi-1,200,OK,Thread Group 1-12,text,true,,392620,141,30,30,https://cityfashion.mk/product-category/mazi/,11586,0,0
+1643794340748,11939,Mazi,200,OK,Thread Group 1-20,text,true,,392962,286,30,30,https://cityfashion.mk/product-category/mazi/,24,0,0
+1643794340748,24,Mazi-0,301,Moved Permanently,Thread Group 1-20,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,24,0,0
+1643794340772,11915,Mazi-1,200,OK,Thread Group 1-20,text,true,,392587,141,30,30,https://cityfashion.mk/product-category/mazi/,11790,0,0
+1643794340740,12602,Mazi,200,OK,Thread Group 1-4,text,true,,392955,286,30,30,https://cityfashion.mk/product-category/mazi/,35,0,0
+1643794340740,36,Mazi-0,301,Moved Permanently,Thread Group 1-4,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,35,0,0
+1643794340776,12566,Mazi-1,200,OK,Thread Group 1-4,text,true,,392580,141,30,30,https://cityfashion.mk/product-category/mazi/,12387,0,0
+1643794341805,11957,Mazi,200,OK,Thread Group 1-7,text,true,,392931,286,30,30,https://cityfashion.mk/product-category/mazi/,19,0,0
+1643794341805,19,Mazi-0,301,Moved Permanently,Thread Group 1-7,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,19,0,0
+1643794341824,11938,Mazi-1,200,OK,Thread Group 1-7,text,true,,392556,141,30,30,https://cityfashion.mk/product-category/mazi/,11769,0,0
+1643794343629,10306,Mazi,200,OK,Thread Group 1-23,text,true,,392962,286,30,30,https://cityfashion.mk/product-category/mazi/,30,0,0
+1643794343629,30,Mazi-0,301,Moved Permanently,Thread Group 1-23,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,30,0,0
+1643794343659,10276,Mazi-1,200,OK,Thread Group 1-23,text,true,,392587,141,30,30,https://cityfashion.mk/product-category/mazi/,10172,0,0
+1643794343424,10864,Mazi,200,OK,Thread Group 1-3,text,true,,392962,286,30,30,https://cityfashion.mk/product-category/mazi/,27,0,0
+1643794343424,27,Mazi-0,301,Moved Permanently,Thread Group 1-3,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,27,0,0
+1643794343451,10837,Mazi-1,200,OK,Thread Group 1-3,text,true,,392587,141,30,30,https://cityfashion.mk/product-category/mazi/,10726,0,0
+1643794343614,10832,Mazi,200,OK,Thread Group 1-28,text,true,,392931,286,30,30,https://cityfashion.mk/product-category/mazi/,27,0,0
+1643794343614,27,Mazi-0,301,Moved Permanently,Thread Group 1-28,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,27,0,0
+1643794343641,10805,Mazi-1,200,OK,Thread Group 1-28,text,true,,392556,141,30,30,https://cityfashion.mk/product-category/mazi/,10679,0,0
+1643794343912,10936,Mazi,200,OK,Thread Group 1-5,text,true,,392970,286,30,30,https://cityfashion.mk/product-category/mazi/,21,0,0
+1643794343912,21,Mazi-0,301,Moved Permanently,Thread Group 1-5,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,21,0,0
+1643794343933,10915,Mazi-1,200,OK,Thread Group 1-5,text,true,,392595,141,30,30,https://cityfashion.mk/product-category/mazi/,10794,0,0
+1643794343905,11348,Mazi,200,OK,Thread Group 1-25,text,true,,392938,286,30,30,https://cityfashion.mk/product-category/mazi/,28,0,0
+1643794343905,28,Mazi-0,301,Moved Permanently,Thread Group 1-25,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,28,0,0
+1643794343933,11320,Mazi-1,200,OK,Thread Group 1-25,text,true,,392563,141,30,30,https://cityfashion.mk/product-category/mazi/,11199,0,0
+1643794344089,11948,Mazi,200,OK,Thread Group 1-15,text,true,,392963,286,30,30,https://cityfashion.mk/product-category/mazi/,22,0,0
+1643794344089,22,Mazi-0,301,Moved Permanently,Thread Group 1-15,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,22,0,0
+1643794344112,11925,Mazi-1,200,OK,Thread Group 1-15,text,true,,392588,141,30,30,https://cityfashion.mk/product-category/mazi/,11807,0,0
+1643794344049,12159,Mazi,200,OK,Thread Group 1-9,text,true,,392962,286,30,30,https://cityfashion.mk/product-category/mazi/,35,0,0
+1643794344049,35,Mazi-0,301,Moved Permanently,Thread Group 1-9,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,35,0,0
+1643794344084,12124,Mazi-1,200,OK,Thread Group 1-9,text,true,,392587,141,30,30,https://cityfashion.mk/product-category/mazi/,11979,0,0
+1643794343693,12633,Mazi,200,OK,Thread Group 1-24,text,true,,392962,286,30,30,https://cityfashion.mk/product-category/mazi/,22,0,0
+1643794343693,22,Mazi-0,301,Moved Permanently,Thread Group 1-24,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,22,0,0
+1643794343716,12610,Mazi-1,200,OK,Thread Group 1-24,text,true,,392587,141,30,30,https://cityfashion.mk/product-category/mazi/,12492,0,0
+1643794344710,12270,Mazi,200,OK,Thread Group 1-14,text,true,,392995,286,30,30,https://cityfashion.mk/product-category/mazi/,24,0,0
+1643794344710,24,Mazi-0,301,Moved Permanently,Thread Group 1-14,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,24,0,0
+1643794344734,12246,Mazi-1,200,OK,Thread Group 1-14,text,true,,392620,141,30,30,https://cityfashion.mk/product-category/mazi/,12082,0,0
+1643794344183,13091,Mazi,200,OK,Thread Group 1-21,text,true,,392931,286,30,30,https://cityfashion.mk/product-category/mazi/,19,0,0
+1643794344183,19,Mazi-0,301,Moved Permanently,Thread Group 1-21,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,19,0,0
+1643794344202,13072,Mazi-1,200,OK,Thread Group 1-21,text,true,,392556,141,30,30,https://cityfashion.mk/product-category/mazi/,12918,0,0
+1643794346872,10404,Mazi,200,OK,Thread Group 1-16,text,true,,392970,286,30,30,https://cityfashion.mk/product-category/mazi/,29,0,0
+1643794346872,30,Mazi-0,301,Moved Permanently,Thread Group 1-16,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,29,0,0
+1643794346902,10374,Mazi-1,200,OK,Thread Group 1-16,text,true,,392595,141,30,30,https://cityfashion.mk/product-category/mazi/,10078,0,0
+1643794346638,11085,Mazi,200,OK,Thread Group 1-6,text,true,,392970,286,30,30,https://cityfashion.mk/product-category/mazi/,22,0,0
+1643794346638,22,Mazi-0,301,Moved Permanently,Thread Group 1-6,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,22,0,0
+1643794346661,11062,Mazi-1,200,OK,Thread Group 1-6,text,true,,392595,141,30,30,https://cityfashion.mk/product-category/mazi/,10956,0,0
+1643794347017,11665,Mazi,200,OK,Thread Group 1-1,text,true,,392970,286,30,30,https://cityfashion.mk/product-category/mazi/,20,0,0
+1643794347017,20,Mazi-0,301,Moved Permanently,Thread Group 1-1,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,20,0,0
+1643794347037,11645,Mazi-1,200,OK,Thread Group 1-1,text,true,,392595,141,30,30,https://cityfashion.mk/product-category/mazi/,11527,0,0
+1643794347109,11892,Mazi,200,OK,Thread Group 1-13,text,true,,392946,286,30,30,https://cityfashion.mk/product-category/mazi/,38,0,0
+1643794347109,38,Mazi-0,301,Moved Permanently,Thread Group 1-13,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,38,0,0
+1643794347148,11853,Mazi-1,200,OK,Thread Group 1-13,text,true,,392571,141,30,30,https://cityfashion.mk/product-category/mazi/,11737,0,0
+1643794347154,12367,Mazi,200,OK,Thread Group 1-8,text,true,,392962,286,30,30,https://cityfashion.mk/product-category/mazi/,68,0,0
+1643794347154,68,Mazi-0,301,Moved Permanently,Thread Group 1-8,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,68,0,0
+1643794347222,12299,Mazi-1,200,OK,Thread Group 1-8,text,true,,392587,141,30,30,https://cityfashion.mk/product-category/mazi/,12166,0,0
+1643794347422,12275,Mazi,200,OK,Thread Group 1-18,text,true,,392970,286,30,30,https://cityfashion.mk/product-category/mazi/,31,0,0
+1643794347422,31,Mazi-0,301,Moved Permanently,Thread Group 1-18,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,31,0,0
+1643794347453,12244,Mazi-1,200,OK,Thread Group 1-18,text,true,,392595,141,30,30,https://cityfashion.mk/product-category/mazi/,12080,0,0
+1643794347253,12465,Mazi,200,OK,Thread Group 1-10,text,true,,392970,286,30,30,https://cityfashion.mk/product-category/mazi/,33,0,0
+1643794347253,33,Mazi-0,301,Moved Permanently,Thread Group 1-10,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,33,0,0
+1643794347286,12432,Mazi-1,200,OK,Thread Group 1-10,text,true,,392595,141,30,30,https://cityfashion.mk/product-category/mazi/,12291,0,0
+1643794347458,12342,Mazi,200,OK,Thread Group 1-2,text,true,,392954,286,30,30,https://cityfashion.mk/product-category/mazi/,18,0,0
+1643794347458,18,Mazi-0,301,Moved Permanently,Thread Group 1-2,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,18,0,0
+1643794347477,12323,Mazi-1,200,OK,Thread Group 1-2,text,true,,392579,141,30,30,https://cityfashion.mk/product-category/mazi/,12173,0,0
+1643794348035,12412,Mazi,200,OK,Thread Group 1-11,text,true,,392970,286,30,30,https://cityfashion.mk/product-category/mazi/,20,0,0
+1643794348035,20,Mazi-0,301,Moved Permanently,Thread Group 1-11,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,20,0,0
+1643794348056,12391,Mazi-1,200,OK,Thread Group 1-11,text,true,,392595,141,30,30,https://cityfashion.mk/product-category/mazi/,12260,0,0
+1643794347909,12590,Mazi,200,OK,Thread Group 1-26,text,true,,392907,286,30,30,https://cityfashion.mk/product-category/mazi/,23,0,0
+1643794347909,23,Mazi-0,301,Moved Permanently,Thread Group 1-26,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,23,0,0
+1643794347932,12567,Mazi-1,200,OK,Thread Group 1-26,text,true,,392532,141,30,30,https://cityfashion.mk/product-category/mazi/,12440,0,0
+1643794351122,12059,Zeni,200,OK,Thread Group 1-19,text,true,,388423,286,30,30,https://cityfashion.mk/product-category/zeni/,18,0,0
+1643794351122,18,Zeni-0,301,Moved Permanently,Thread Group 1-19,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,18,0,0
+1643794351140,12041,Zeni-1,200,OK,Thread Group 1-19,text,true,,388048,141,30,30,https://cityfashion.mk/product-category/zeni/,11857,0,0
+1643794351106,12154,Zeni,200,OK,Thread Group 1-17,text,true,,388423,286,30,30,https://cityfashion.mk/product-category/zeni/,19,0,0
+1643794351106,19,Zeni-0,301,Moved Permanently,Thread Group 1-17,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,19,0,0
+1643794351126,12134,Zeni-1,200,OK,Thread Group 1-17,text,true,,388048,141,30,30,https://cityfashion.mk/product-category/zeni/,11902,0,0
+1643794351281,12017,Zeni,200,OK,Thread Group 1-29,text,true,,388431,286,30,30,https://cityfashion.mk/product-category/zeni/,52,0,0
+1643794351281,52,Zeni-0,301,Moved Permanently,Thread Group 1-29,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,52,0,0
+1643794351334,11964,Zeni-1,200,OK,Thread Group 1-29,text,true,,388056,141,30,30,https://cityfashion.mk/product-category/zeni/,11718,0,0
+1643794351371,12013,Zeni,200,OK,Thread Group 1-27,text,true,,388423,286,30,30,https://cityfashion.mk/product-category/zeni/,37,0,0
+1643794351371,37,Zeni-0,301,Moved Permanently,Thread Group 1-27,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,37,0,0
+1643794351408,11976,Zeni-1,200,OK,Thread Group 1-27,text,true,,388048,141,30,30,https://cityfashion.mk/product-category/zeni/,11709,0,0
+1643794351083,12318,Zeni,200,OK,Thread Group 1-30,text,true,,388423,286,30,30,https://cityfashion.mk/product-category/zeni/,38,0,0
+1643794351083,38,Zeni-0,301,Moved Permanently,Thread Group 1-30,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,38,0,0
+1643794351121,12280,Zeni-1,200,OK,Thread Group 1-30,text,true,,388048,141,30,30,https://cityfashion.mk/product-category/zeni/,12012,0,0
+1643794351414,11999,Zeni,200,OK,Thread Group 1-22,text,true,,388415,286,30,30,https://cityfashion.mk/product-category/zeni/,17,0,0
+1643794351414,17,Zeni-0,301,Moved Permanently,Thread Group 1-22,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,17,0,0
+1643794351432,11981,Zeni-1,200,OK,Thread Group 1-22,text,true,,388040,141,30,30,https://cityfashion.mk/product-category/zeni/,11744,0,0
+1643794352460,11034,Zeni,200,OK,Thread Group 1-12,text,true,,388423,286,30,30,https://cityfashion.mk/product-category/zeni/,26,0,0
+1643794352460,26,Zeni-0,301,Moved Permanently,Thread Group 1-12,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,26,0,0
+1643794352486,11008,Zeni-1,200,OK,Thread Group 1-12,text,true,,388048,141,30,30,https://cityfashion.mk/product-category/zeni/,10844,0,0
+1643794352687,11336,Zeni,200,OK,Thread Group 1-20,text,true,,388423,286,30,30,https://cityfashion.mk/product-category/zeni/,16,0,0
+1643794352687,16,Zeni-0,301,Moved Permanently,Thread Group 1-20,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,16,0,0
+1643794352703,11320,Zeni-1,200,OK,Thread Group 1-20,text,true,,388048,141,30,30,https://cityfashion.mk/product-category/zeni/,11169,0,0
+1643794354446,12820,Zeni,200,OK,Thread Group 1-28,text,true,,388431,286,30,30,https://cityfashion.mk/product-category/zeni/,18,0,0
+1643794354446,18,Zeni-0,301,Moved Permanently,Thread Group 1-28,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,18,0,0
+1643794354464,12802,Zeni-1,200,OK,Thread Group 1-28,text,true,,388056,141,30,30,https://cityfashion.mk/product-category/zeni/,12669,0,0
+1643794353763,13653,Zeni,200,OK,Thread Group 1-7,text,true,,388431,286,30,30,https://cityfashion.mk/product-category/zeni/,23,0,0
+1643794353763,23,Zeni-0,301,Moved Permanently,Thread Group 1-7,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,23,0,0
+1643794353786,13630,Zeni-1,200,OK,Thread Group 1-7,text,true,,388056,141,30,30,https://cityfashion.mk/product-category/zeni/,13522,0,0
+1643794354288,13307,Zeni,200,OK,Thread Group 1-3,text,true,,388431,286,30,30,https://cityfashion.mk/product-category/zeni/,28,0,0
+1643794354288,28,Zeni-0,301,Moved Permanently,Thread Group 1-3,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,28,0,0
+1643794354317,13278,Zeni-1,200,OK,Thread Group 1-3,text,true,,388056,141,30,30,https://cityfashion.mk/product-category/zeni/,13135,0,0
+1643794353936,13775,Zeni,200,OK,Thread Group 1-23,text,true,,388431,286,30,30,https://cityfashion.mk/product-category/zeni/,18,0,0
+1643794353936,18,Zeni-0,301,Moved Permanently,Thread Group 1-23,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,18,0,0
+1643794353954,13757,Zeni-1,200,OK,Thread Group 1-23,text,true,,388056,141,30,30,https://cityfashion.mk/product-category/zeni/,13606,0,0
+1643794353342,14392,Zeni,200,OK,Thread Group 1-4,text,true,,388415,286,30,30,https://cityfashion.mk/product-category/zeni/,28,0,0
+1643794353342,28,Zeni-0,301,Moved Permanently,Thread Group 1-4,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,28,0,0
+1643794353370,14364,Zeni-1,200,OK,Thread Group 1-4,text,true,,388040,141,30,30,https://cityfashion.mk/product-category/zeni/,14208,0,0
+1643794354848,13487,Zeni,200,OK,Thread Group 1-5,text,true,,388431,286,30,30,https://cityfashion.mk/product-category/zeni/,19,0,0
+1643794354848,19,Zeni-0,301,Moved Permanently,Thread Group 1-5,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,19,0,0
+1643794354868,13467,Zeni-1,200,OK,Thread Group 1-5,text,true,,388056,141,30,30,https://cityfashion.mk/product-category/zeni/,13363,0,0
+1643794356037,13491,Zeni,200,OK,Thread Group 1-15,text,true,,388431,286,30,30,https://cityfashion.mk/product-category/zeni/,28,0,0
+1643794356037,28,Zeni-0,301,Moved Permanently,Thread Group 1-15,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,28,0,0
+1643794356065,13463,Zeni-1,200,OK,Thread Group 1-15,text,true,,388056,141,30,30,https://cityfashion.mk/product-category/zeni/,13331,0,0
+1643794355254,14347,Zeni,200,OK,Thread Group 1-25,text,true,,388423,286,30,30,https://cityfashion.mk/product-category/zeni/,22,0,0
+1643794355254,22,Zeni-0,301,Moved Permanently,Thread Group 1-25,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,22,0,0
+1643794355276,14325,Zeni-1,200,OK,Thread Group 1-25,text,true,,388048,141,30,30,https://cityfashion.mk/product-category/zeni/,14205,0,0
+1643794356208,13969,Zeni,200,OK,Thread Group 1-9,text,true,,388423,286,30,30,https://cityfashion.mk/product-category/zeni/,32,0,0
+1643794356208,32,Zeni-0,301,Moved Permanently,Thread Group 1-9,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,32,0,0
+1643794356240,13937,Zeni-1,200,OK,Thread Group 1-9,text,true,,388048,141,30,30,https://cityfashion.mk/product-category/zeni/,13827,0,0
+1643794356980,13666,Zeni,200,OK,Thread Group 1-14,text,true,,388431,286,30,30,https://cityfashion.mk/product-category/zeni/,34,0,0
+1643794356980,34,Zeni-0,301,Moved Permanently,Thread Group 1-14,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,34,0,0
+1643794357014,13632,Zeni-1,200,OK,Thread Group 1-14,text,true,,388056,141,30,30,https://cityfashion.mk/product-category/zeni/,13498,0,0
+1643794356326,14689,Zeni,200,OK,Thread Group 1-24,text,true,,388431,286,30,30,https://cityfashion.mk/product-category/zeni/,20,0,0
+1643794356326,20,Zeni-0,301,Moved Permanently,Thread Group 1-24,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,20,0,0
+1643794356346,14669,Zeni-1,200,OK,Thread Group 1-24,text,true,,388056,141,30,30,https://cityfashion.mk/product-category/zeni/,14521,0,0
+1643794357275,13810,Zeni,200,OK,Thread Group 1-21,text,true,,388423,286,30,30,https://cityfashion.mk/product-category/zeni/,19,0,0
+1643794357275,19,Zeni-0,301,Moved Permanently,Thread Group 1-21,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,19,0,0
+1643794357295,13790,Zeni-1,200,OK,Thread Group 1-21,text,true,,388048,141,30,30,https://cityfashion.mk/product-category/zeni/,13654,0,0
+1643794357275,14006,Zeni,200,OK,Thread Group 1-16,text,true,,388431,286,30,30,https://cityfashion.mk/product-category/zeni/,18,0,0
+1643794357275,18,Zeni-0,301,Moved Permanently,Thread Group 1-16,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,18,0,0
+1643794357294,13987,Zeni-1,200,OK,Thread Group 1-16,text,true,,388056,141,30,30,https://cityfashion.mk/product-category/zeni/,13786,0,0
+1643794357723,13799,Zeni,200,OK,Thread Group 1-6,text,true,,388431,286,30,30,https://cityfashion.mk/product-category/zeni/,22,0,0
+1643794357723,22,Zeni-0,301,Moved Permanently,Thread Group 1-6,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,22,0,0
+1643794357745,13777,Zeni-1,200,OK,Thread Group 1-6,text,true,,388056,141,30,30,https://cityfashion.mk/product-category/zeni/,13643,0,0
+1643794359000,12532,Zeni,200,OK,Thread Group 1-13,text,true,,388423,286,30,30,https://cityfashion.mk/product-category/zeni/,30,0,0
+1643794359000,30,Zeni-0,301,Moved Permanently,Thread Group 1-13,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,30,0,0
+1643794359030,12502,Zeni-1,200,OK,Thread Group 1-13,text,true,,388048,141,30,30,https://cityfashion.mk/product-category/zeni/,12361,0,0
+1643794358681,12979,Zeni,200,OK,Thread Group 1-1,text,true,,388423,286,30,30,https://cityfashion.mk/product-category/zeni/,20,0,0
+1643794358681,20,Zeni-0,301,Moved Permanently,Thread Group 1-1,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,20,0,0
+1643794358701,12959,Zeni-1,200,OK,Thread Group 1-1,text,true,,388048,141,30,30,https://cityfashion.mk/product-category/zeni/,12831,0,0
+1643794359521,13141,Zeni,200,OK,Thread Group 1-8,text,true,,388431,286,30,30,https://cityfashion.mk/product-category/zeni/,21,0,0
+1643794359521,22,Zeni-0,301,Moved Permanently,Thread Group 1-8,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,21,0,0
+1643794359543,13119,Zeni-1,200,OK,Thread Group 1-8,text,true,,388056,141,30,30,https://cityfashion.mk/product-category/zeni/,12958,0,0
+1643794359717,13579,Zeni,200,OK,Thread Group 1-10,text,true,,388431,286,30,30,https://cityfashion.mk/product-category/zeni/,46,0,0
+1643794359717,47,Zeni-0,301,Moved Permanently,Thread Group 1-10,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,46,0,0
+1643794359764,13532,Zeni-1,200,OK,Thread Group 1-10,text,true,,388056,141,30,30,https://cityfashion.mk/product-category/zeni/,13402,0,0
+1643794359696,13662,Zeni,200,OK,Thread Group 1-18,text,true,,388423,286,30,30,https://cityfashion.mk/product-category/zeni/,35,0,0
+1643794359696,35,Zeni-0,301,Moved Permanently,Thread Group 1-18,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,35,0,0
+1643794359731,13627,Zeni-1,200,OK,Thread Group 1-18,text,true,,388048,141,30,30,https://cityfashion.mk/product-category/zeni/,13483,0,0
+1643794359800,13882,Zeni,200,OK,Thread Group 1-2,text,true,,388439,286,30,30,https://cityfashion.mk/product-category/zeni/,33,0,0
+1643794359800,33,Zeni-0,301,Moved Permanently,Thread Group 1-2,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,33,0,0
+1643794359833,13849,Zeni-1,200,OK,Thread Group 1-2,text,true,,388064,141,30,30,https://cityfashion.mk/product-category/zeni/,13711,0,0
+1643794360447,13986,Zeni,200,OK,Thread Group 1-11,text,true,,388439,286,30,30,https://cityfashion.mk/product-category/zeni/,27,0,0
+1643794360447,27,Zeni-0,301,Moved Permanently,Thread Group 1-11,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,27,0,0
+1643794360475,13958,Zeni-1,200,OK,Thread Group 1-11,text,true,,388064,141,30,30,https://cityfashion.mk/product-category/zeni/,13719,0,0
+1643794360498,14085,Zeni,200,OK,Thread Group 1-26,text,true,,388431,286,30,30,https://cityfashion.mk/product-category/zeni/,33,0,0
+1643794360498,33,Zeni-0,301,Moved Permanently,Thread Group 1-26,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,33,0,0
+1643794360531,14052,Zeni-1,200,OK,Thread Group 1-26,text,true,,388056,141,30,30,https://cityfashion.mk/product-category/zeni/,13959,0,0
+1643794363261,11837,Novo,200,OK,Thread Group 1-17,text,true,,384161,252,30,30,https://cityfashion.mk/novo/,58,0,0
+1643794363261,58,Novo-0,301,Moved Permanently,Thread Group 1-17,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,58,0,0
+1643794363319,11779,Novo-1,200,OK,Thread Group 1-17,text,true,,383803,124,30,30,https://cityfashion.mk/novo/,11664,0,0
+1643794363181,12172,Novo,200,OK,Thread Group 1-19,text,true,,384153,252,30,30,https://cityfashion.mk/novo/,67,0,0
+1643794363181,67,Novo-0,301,Moved Permanently,Thread Group 1-19,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,67,0,0
+1643794363248,12105,Novo-1,200,OK,Thread Group 1-19,text,true,,383795,124,30,30,https://cityfashion.mk/novo/,12020,0,0
+1643794363299,12577,Novo,200,OK,Thread Group 1-29,text,true,,384113,252,30,30,https://cityfashion.mk/novo/,50,0,0
+1643794363299,50,Novo-0,301,Moved Permanently,Thread Group 1-29,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,50,0,0
+1643794363349,12527,Novo-1,200,OK,Thread Group 1-29,text,true,,383755,124,30,30,https://cityfashion.mk/novo/,12416,0,0
+1643794363413,13129,Novo,200,OK,Thread Group 1-22,text,true,,384145,252,30,30,https://cityfashion.mk/novo/,33,0,0
+1643794363413,33,Novo-0,301,Moved Permanently,Thread Group 1-22,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,33,0,0
+1643794363446,13096,Novo-1,200,OK,Thread Group 1-22,text,true,,383787,124,30,30,https://cityfashion.mk/novo/,12976,0,0
+1643794363401,13173,Novo,200,OK,Thread Group 1-30,text,true,,384153,252,30,30,https://cityfashion.mk/novo/,29,0,0
+1643794363401,29,Novo-0,301,Moved Permanently,Thread Group 1-30,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,29,0,0
+1643794363430,13144,Novo-1,200,OK,Thread Group 1-30,text,true,,383795,124,30,30,https://cityfashion.mk/novo/,13017,0,0
+1643794363385,13444,Novo,200,OK,Thread Group 1-27,text,true,,384153,252,30,30,https://cityfashion.mk/novo/,29,0,0
+1643794363385,29,Novo-0,301,Moved Permanently,Thread Group 1-27,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,29,0,0
+1643794363414,13415,Novo-1,200,OK,Thread Group 1-27,text,true,,383795,124,30,30,https://cityfashion.mk/novo/,13280,0,0
+1643794363495,13611,Novo,200,OK,Thread Group 1-12,text,true,,384137,252,30,30,https://cityfashion.mk/novo/,19,0,0
+1643794363495,19,Novo-0,301,Moved Permanently,Thread Group 1-12,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,19,0,0
+1643794363514,13592,Novo-1,200,OK,Thread Group 1-12,text,true,,383779,124,30,30,https://cityfashion.mk/novo/,13476,0,0
+1643794364023,13489,Novo,200,OK,Thread Group 1-20,text,true,,384153,252,30,30,https://cityfashion.mk/novo/,18,0,0
+1643794364023,18,Novo-0,301,Moved Permanently,Thread Group 1-20,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,18,0,0
+1643794364041,13471,Novo-1,200,OK,Thread Group 1-20,text,true,,383795,124,30,30,https://cityfashion.mk/novo/,13364,0,0
+1643794367267,13201,Novo,200,OK,Thread Group 1-28,text,true,,384153,252,30,30,https://cityfashion.mk/novo/,32,0,0
+1643794367267,32,Novo-0,301,Moved Permanently,Thread Group 1-28,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,32,0,0
+1643794367299,13169,Novo-1,200,OK,Thread Group 1-28,text,true,,383795,124,30,30,https://cityfashion.mk/novo/,13074,0,0
+1643794367416,13845,Novo,200,OK,Thread Group 1-7,text,true,,384137,252,30,30,https://cityfashion.mk/novo/,37,0,0
+1643794367416,38,Novo-0,301,Moved Permanently,Thread Group 1-7,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,37,0,0
+1643794367454,13807,Novo-1,200,OK,Thread Group 1-7,text,true,,383779,124,30,30,https://cityfashion.mk/novo/,13687,0,0
+1643794367598,14551,Novo,200,OK,Thread Group 1-3,text,true,,384145,252,30,30,https://cityfashion.mk/novo/,36,0,0
+1643794367598,36,Novo-0,301,Moved Permanently,Thread Group 1-3,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,36,0,0
+1643794367634,14515,Novo-1,200,OK,Thread Group 1-3,text,true,,383787,124,30,30,https://cityfashion.mk/novo/,14398,0,0
+1643794367712,14516,Novo,200,OK,Thread Group 1-23,text,true,,384145,252,30,30,https://cityfashion.mk/novo/,32,0,0
+1643794367712,32,Novo-0,301,Moved Permanently,Thread Group 1-23,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,32,0,0
+1643794367744,14484,Novo-1,200,OK,Thread Group 1-23,text,true,,383787,124,30,30,https://cityfashion.mk/novo/,14360,0,0
+1643794367734,15783,Novo,200,OK,Thread Group 1-4,text,true,,384185,252,30,30,https://cityfashion.mk/novo/,22,0,0
+1643794367734,23,Novo-0,301,Moved Permanently,Thread Group 1-4,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,22,0,0
+1643794367759,15758,Novo-1,200,OK,Thread Group 1-4,text,true,,383827,124,30,30,https://cityfashion.mk/novo/,15642,0,0
+1643794368336,15647,Novo,200,OK,Thread Group 1-5,text,true,,384145,252,30,30,https://cityfashion.mk/novo/,12,0,0
+1643794368336,12,Novo-0,301,Moved Permanently,Thread Group 1-5,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,12,0,0
+1643794368348,15635,Novo-1,200,OK,Thread Group 1-5,text,true,,383787,124,30,30,https://cityfashion.mk/novo/,15510,0,0
+1643794369528,14522,Novo,200,OK,Thread Group 1-15,text,true,,384145,252,30,30,https://cityfashion.mk/novo/,25,0,0
+1643794369528,25,Novo-0,301,Moved Permanently,Thread Group 1-15,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,25,0,0
+1643794369553,14497,Novo-1,200,OK,Thread Group 1-15,text,true,,383787,124,30,30,https://cityfashion.mk/novo/,14242,0,0
+1643794369601,14501,Novo,200,OK,Thread Group 1-25,text,true,,384153,252,30,30,https://cityfashion.mk/novo/,24,0,0
+1643794369601,24,Novo-0,301,Moved Permanently,Thread Group 1-25,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,24,0,0
+1643794369626,14476,Novo-1,200,OK,Thread Group 1-25,text,true,,383795,124,30,30,https://cityfashion.mk/novo/,14367,0,0
+1643794370177,14128,Novo,200,OK,Thread Group 1-9,text,true,,384153,252,30,30,https://cityfashion.mk/novo/,28,0,0
+1643794370177,29,Novo-0,301,Moved Permanently,Thread Group 1-9,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,28,0,0
+1643794370206,14099,Novo-1,200,OK,Thread Group 1-9,text,true,,383795,124,30,30,https://cityfashion.mk/novo/,14003,0,0
+1643794370647,13833,Novo,200,OK,Thread Group 1-14,text,true,,384137,252,30,30,https://cityfashion.mk/novo/,27,0,0
+1643794370647,27,Novo-0,301,Moved Permanently,Thread Group 1-14,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,27,0,0
+1643794370676,13804,Novo-1,200,OK,Thread Group 1-14,text,true,,383779,124,30,30,https://cityfashion.mk/novo/,13636,0,0
+1643794371085,14142,Novo,200,OK,Thread Group 1-21,text,true,,384145,252,30,30,https://cityfashion.mk/novo/,26,0,0
+1643794371085,26,Novo-0,301,Moved Permanently,Thread Group 1-21,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,26,0,0
+1643794371111,14116,Novo-1,200,OK,Thread Group 1-21,text,true,,383787,124,30,30,https://cityfashion.mk/novo/,14004,0,0
+1643794371015,14300,Novo,200,OK,Thread Group 1-24,text,true,,384137,252,30,30,https://cityfashion.mk/novo/,42,0,0
+1643794371015,42,Novo-0,301,Moved Permanently,Thread Group 1-24,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,42,0,0
+1643794371057,14258,Novo-1,200,OK,Thread Group 1-24,text,true,,383779,124,30,30,https://cityfashion.mk/novo/,14153,0,0
+1643794371282,14502,Novo,200,OK,Thread Group 1-16,text,true,,384145,252,30,30,https://cityfashion.mk/novo/,30,0,0
+1643794371282,31,Novo-0,301,Moved Permanently,Thread Group 1-16,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,30,0,0
+1643794371313,14471,Novo-1,200,OK,Thread Group 1-16,text,true,,383787,124,30,30,https://cityfashion.mk/novo/,14272,0,0
+1643794371523,15150,Novo,200,OK,Thread Group 1-6,text,true,,384153,252,30,30,https://cityfashion.mk/novo/,25,0,0
+1643794371523,25,Novo-0,301,Moved Permanently,Thread Group 1-6,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,25,0,0
+1643794371548,15125,Novo-1,200,OK,Thread Group 1-6,text,true,,383795,124,30,30,https://cityfashion.mk/novo/,15018,0,0
+1643794371533,15266,Novo,200,OK,Thread Group 1-13,text,true,,384153,252,30,30,https://cityfashion.mk/novo/,29,0,0
+1643794371533,29,Novo-0,301,Moved Permanently,Thread Group 1-13,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,29,0,0
+1643794371562,15237,Novo-1,200,OK,Thread Group 1-13,text,true,,383795,124,30,30,https://cityfashion.mk/novo/,15130,0,0
+1643794371660,15513,Novo,200,OK,Thread Group 1-1,text,true,,384153,252,30,30,https://cityfashion.mk/novo/,24,0,0
+1643794371660,24,Novo-0,301,Moved Permanently,Thread Group 1-1,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,24,0,0
+1643794371684,15489,Novo-1,200,OK,Thread Group 1-1,text,true,,383795,124,30,30,https://cityfashion.mk/novo/,15359,0,0
+1643794373297,13907,Novo,200,OK,Thread Group 1-10,text,true,,384145,252,30,30,https://cityfashion.mk/novo/,18,0,0
+1643794373297,18,Novo-0,301,Moved Permanently,Thread Group 1-10,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,18,0,0
+1643794373315,13889,Novo-1,200,OK,Thread Group 1-10,text,true,,383787,124,30,30,https://cityfashion.mk/novo/,13758,0,0
+1643794373358,14108,Novo,200,OK,Thread Group 1-18,text,true,,384145,252,30,30,https://cityfashion.mk/novo/,20,0,0
+1643794373358,20,Novo-0,301,Moved Permanently,Thread Group 1-18,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,20,0,0
+1643794373378,14088,Novo-1,200,OK,Thread Group 1-18,text,true,,383787,124,30,30,https://cityfashion.mk/novo/,13985,0,0
+1643794373682,13897,Novo,200,OK,Thread Group 1-2,text,true,,384145,252,30,30,https://cityfashion.mk/novo/,19,0,0
+1643794373682,19,Novo-0,301,Moved Permanently,Thread Group 1-2,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,19,0,0
+1643794373701,13878,Novo-1,200,OK,Thread Group 1-2,text,true,,383787,124,30,30,https://cityfashion.mk/novo/,13755,0,0
+1643794372662,14994,Novo,200,OK,Thread Group 1-8,text,true,,384137,252,30,30,https://cityfashion.mk/novo/,16,0,0
+1643794372662,16,Novo-0,301,Moved Permanently,Thread Group 1-8,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,16,0,0
+1643794372679,14977,Novo-1,200,OK,Thread Group 1-8,text,true,,383779,124,30,30,https://cityfashion.mk/novo/,14825,0,0
+1643794374433,14019,Novo,200,OK,Thread Group 1-11,text,true,,384145,252,30,30,https://cityfashion.mk/novo/,24,0,0
+1643794374433,24,Novo-0,301,Moved Permanently,Thread Group 1-11,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,24,0,0
+1643794374457,13995,Novo-1,200,OK,Thread Group 1-11,text,true,,383787,124,30,30,https://cityfashion.mk/novo/,13777,0,0
+1643794374583,14426,Novo,200,OK,Thread Group 1-26,text,true,,384137,252,30,30,https://cityfashion.mk/novo/,31,0,0
+1643794374583,31,Novo-0,301,Moved Permanently,Thread Group 1-26,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,31,0,0
+1643794374614,14395,Novo-1,200,OK,Thread Group 1-26,text,true,,383779,124,30,30,https://cityfashion.mk/novo/,14252,0,0
+1643794375354,15375,Mazi,200,OK,Thread Group 1-19,text,true,,392962,286,30,30,https://cityfashion.mk/product-category/mazi/,20,0,0
+1643794375354,20,Mazi-0,301,Moved Permanently,Thread Group 1-19,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,20,0,0
+1643794375374,15355,Mazi-1,200,OK,Thread Group 1-19,text,true,,392587,141,30,30,https://cityfashion.mk/product-category/mazi/,15265,0,0
+1643794375098,15892,Mazi,200,OK,Thread Group 1-17,text,true,,392970,286,30,30,https://cityfashion.mk/product-category/mazi/,16,0,0
+1643794375098,16,Mazi-0,301,Moved Permanently,Thread Group 1-17,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,16,0,0
+1643794375114,15876,Mazi-1,200,OK,Thread Group 1-17,text,true,,392595,141,30,30,https://cityfashion.mk/product-category/mazi/,15770,0,0
+1643794375876,15516,Mazi,200,OK,Thread Group 1-29,text,true,,392962,286,30,30,https://cityfashion.mk/product-category/mazi/,15,0,0
+1643794375876,15,Mazi-0,301,Moved Permanently,Thread Group 1-29,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,15,0,0
+1643794375891,15501,Mazi-1,200,OK,Thread Group 1-29,text,true,,392587,141,30,30,https://cityfashion.mk/product-category/mazi/,15411,0,0
+1643794376542,15022,Mazi,200,OK,Thread Group 1-22,text,true,,392954,286,30,30,https://cityfashion.mk/product-category/mazi/,22,0,0
+1643794376542,22,Mazi-0,301,Moved Permanently,Thread Group 1-22,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,22,0,0
+1643794376565,14999,Mazi-1,200,OK,Thread Group 1-22,text,true,,392579,141,30,30,https://cityfashion.mk/product-category/mazi/,14881,0,0
+1643794376574,15360,Mazi,200,OK,Thread Group 1-30,text,true,,392954,286,30,30,https://cityfashion.mk/product-category/mazi/,15,0,0
+1643794376574,15,Mazi-0,301,Moved Permanently,Thread Group 1-30,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,15,0,0
+1643794376590,15344,Mazi-1,200,OK,Thread Group 1-30,text,true,,392579,141,30,30,https://cityfashion.mk/product-category/mazi/,15249,0,0
+1643794376830,15225,Mazi,200,OK,Thread Group 1-27,text,true,,392962,286,30,30,https://cityfashion.mk/product-category/mazi/,19,0,0
+1643794376830,19,Mazi-0,301,Moved Permanently,Thread Group 1-27,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,19,0,0
+1643794376849,15206,Mazi-1,200,OK,Thread Group 1-27,text,true,,392587,141,30,30,https://cityfashion.mk/product-category/mazi/,15100,0,0
+1643794377106,15812,Mazi,200,OK,Thread Group 1-12,text,true,,392962,286,30,30,https://cityfashion.mk/product-category/mazi/,28,0,0
+1643794377106,29,Mazi-0,301,Moved Permanently,Thread Group 1-12,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,28,0,0
+1643794377135,15783,Mazi-1,200,OK,Thread Group 1-12,text,true,,392587,141,30,30,https://cityfashion.mk/product-category/mazi/,15695,0,0
+1643794377512,16510,Mazi,200,OK,Thread Group 1-20,text,true,,392962,286,30,30,https://cityfashion.mk/product-category/mazi/,27,0,0
+1643794377512,27,Mazi-0,301,Moved Permanently,Thread Group 1-20,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,27,0,0
+1643794377539,16483,Mazi-1,200,OK,Thread Group 1-20,text,true,,392587,141,30,30,https://cityfashion.mk/product-category/mazi/,16384,0,0
+1643794380471,14302,Mazi,200,OK,Thread Group 1-28,text,true,,392962,286,30,30,https://cityfashion.mk/product-category/mazi/,12,0,0
+1643794380471,12,Mazi-0,301,Moved Permanently,Thread Group 1-28,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,12,0,0
+1643794380483,14290,Mazi-1,200,OK,Thread Group 1-28,text,true,,392587,141,30,30,https://cityfashion.mk/product-category/mazi/,14149,0,0
+1643794381262,14051,Mazi,200,OK,Thread Group 1-7,text,true,,392970,286,30,30,https://cityfashion.mk/product-category/mazi/,18,0,0
+1643794381262,18,Mazi-0,301,Moved Permanently,Thread Group 1-7,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,18,0,0
+1643794381280,14033,Mazi-1,200,OK,Thread Group 1-7,text,true,,392595,141,30,30,https://cityfashion.mk/product-category/mazi/,13912,0,0
+1643794382150,13244,Mazi,200,OK,Thread Group 1-3,text,true,,392947,286,30,30,https://cityfashion.mk/product-category/mazi/,23,0,0
+1643794382150,23,Mazi-0,301,Moved Permanently,Thread Group 1-3,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,23,0,0
+1643794382173,13221,Mazi-1,200,OK,Thread Group 1-3,text,true,,392572,141,30,30,https://cityfashion.mk/product-category/mazi/,13110,0,0
+1643794383518,12055,Mazi,200,OK,Thread Group 1-4,text,true,,392954,286,30,30,https://cityfashion.mk/product-category/mazi/,30,0,0
+1643794383518,30,Mazi-0,301,Moved Permanently,Thread Group 1-4,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,30,0,0
+1643794383548,12025,Mazi-1,200,OK,Thread Group 1-4,text,true,,392579,141,30,30,https://cityfashion.mk/product-category/mazi/,11914,0,0
+1643794382229,13842,Mazi,200,OK,Thread Group 1-23,text,true,,392962,286,30,30,https://cityfashion.mk/product-category/mazi/,22,0,0
+1643794382229,22,Mazi-0,301,Moved Permanently,Thread Group 1-23,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,22,0,0
+1643794382252,13819,Mazi-1,200,OK,Thread Group 1-23,text,true,,392587,141,30,30,https://cityfashion.mk/product-category/mazi/,13696,0,0
+1643794383984,13065,Mazi,200,OK,Thread Group 1-5,text,true,,392963,286,30,30,https://cityfashion.mk/product-category/mazi/,25,0,0
+1643794383984,25,Mazi-0,301,Moved Permanently,Thread Group 1-5,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,25,0,0
+1643794384009,13040,Mazi-1,200,OK,Thread Group 1-5,text,true,,392588,141,30,30,https://cityfashion.mk/product-category/mazi/,12939,0,0
+1643794384051,13505,Mazi,200,OK,Thread Group 1-15,text,true,,392970,286,30,30,https://cityfashion.mk/product-category/mazi/,28,0,0
+1643794384051,28,Mazi-0,301,Moved Permanently,Thread Group 1-15,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,28,0,0
+1643794384079,13477,Mazi-1,200,OK,Thread Group 1-15,text,true,,392595,141,30,30,https://cityfashion.mk/product-category/mazi/,13285,0,0
+1643794384481,13638,Mazi,200,OK,Thread Group 1-14,text,true,,392970,286,30,30,https://cityfashion.mk/product-category/mazi/,26,0,0
+1643794384481,26,Mazi-0,301,Moved Permanently,Thread Group 1-14,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,26,0,0
+1643794384508,13611,Mazi-1,200,OK,Thread Group 1-14,text,true,,392595,141,30,30,https://cityfashion.mk/product-category/mazi/,13468,0,0
+1643794384104,14028,Mazi,200,OK,Thread Group 1-25,text,true,,392962,286,30,30,https://cityfashion.mk/product-category/mazi/,24,0,0
+1643794384104,24,Mazi-0,301,Moved Permanently,Thread Group 1-25,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,24,0,0
+1643794384128,14004,Mazi-1,200,OK,Thread Group 1-25,text,true,,392587,141,30,30,https://cityfashion.mk/product-category/mazi/,13882,0,0
+1643794384307,14056,Mazi,200,OK,Thread Group 1-9,text,true,,392970,286,30,30,https://cityfashion.mk/product-category/mazi/,33,0,0
+1643794384307,33,Mazi-0,301,Moved Permanently,Thread Group 1-9,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,33,0,0
+1643794384340,14023,Mazi-1,200,OK,Thread Group 1-9,text,true,,392595,141,30,30,https://cityfashion.mk/product-category/mazi/,13915,0,0
+1643794385317,13503,Mazi,200,OK,Thread Group 1-24,text,true,,392970,286,30,30,https://cityfashion.mk/product-category/mazi/,23,0,0
+1643794385317,23,Mazi-0,301,Moved Permanently,Thread Group 1-24,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,23,0,0
+1643794385340,13480,Mazi-1,200,OK,Thread Group 1-24,text,true,,392595,141,30,30,https://cityfashion.mk/product-category/mazi/,13358,0,0
+1643794385785,13127,Mazi,200,OK,Thread Group 1-16,text,true,,392970,286,30,30,https://cityfashion.mk/product-category/mazi/,23,0,0
+1643794385785,23,Mazi-0,301,Moved Permanently,Thread Group 1-16,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,23,0,0
+1643794385808,13104,Mazi-1,200,OK,Thread Group 1-16,text,true,,392595,141,30,30,https://cityfashion.mk/product-category/mazi/,12942,0,0
+1643794385229,14053,Mazi,200,OK,Thread Group 1-21,text,true,,392962,286,30,30,https://cityfashion.mk/product-category/mazi/,29,0,0
+1643794385229,29,Mazi-0,301,Moved Permanently,Thread Group 1-21,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,29,0,0
+1643794385258,14024,Mazi-1,200,OK,Thread Group 1-21,text,true,,392587,141,30,30,https://cityfashion.mk/product-category/mazi/,13883,0,0
+1643794386800,13913,Mazi,200,OK,Thread Group 1-13,text,true,,392955,286,30,30,https://cityfashion.mk/product-category/mazi/,22,0,0
+1643794386800,22,Mazi-0,301,Moved Permanently,Thread Group 1-13,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,22,0,0
+1643794386822,13891,Mazi-1,200,OK,Thread Group 1-13,text,true,,392580,141,30,30,https://cityfashion.mk/product-category/mazi/,13801,0,0
+1643794386675,14191,Mazi,200,OK,Thread Group 1-6,text,true,,392995,286,30,30,https://cityfashion.mk/product-category/mazi/,24,0,0
+1643794386675,24,Mazi-0,301,Moved Permanently,Thread Group 1-6,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,24,0,0
+1643794386699,14167,Mazi-1,200,OK,Thread Group 1-6,text,true,,392620,141,30,30,https://cityfashion.mk/product-category/mazi/,14063,0,0
+1643794387174,14031,Mazi,200,OK,Thread Group 1-1,text,true,,392963,286,30,30,https://cityfashion.mk/product-category/mazi/,31,0,0
+1643794387174,31,Mazi-0,301,Moved Permanently,Thread Group 1-1,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,31,0,0
+1643794387206,13999,Mazi-1,200,OK,Thread Group 1-1,text,true,,392588,141,30,30,https://cityfashion.mk/product-category/mazi/,13882,0,0
+1643794387467,14310,Mazi,200,OK,Thread Group 1-18,text,true,,392939,286,30,30,https://cityfashion.mk/product-category/mazi/,42,0,0
+1643794387467,42,Mazi-0,301,Moved Permanently,Thread Group 1-18,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,42,0,0
+1643794387509,14268,Mazi-1,200,OK,Thread Group 1-18,text,true,,392564,141,30,30,https://cityfashion.mk/product-category/mazi/,14127,0,0
+1643794387206,14680,Mazi,200,OK,Thread Group 1-10,text,true,,392963,286,30,30,https://cityfashion.mk/product-category/mazi/,21,0,0
+1643794387206,21,Mazi-0,301,Moved Permanently,Thread Group 1-10,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,21,0,0
+1643794387227,14659,Mazi-1,200,OK,Thread Group 1-10,text,true,,392588,141,30,30,https://cityfashion.mk/product-category/mazi/,14432,0,0
+1643794387580,14731,Mazi,200,OK,Thread Group 1-2,text,true,,392962,286,30,30,https://cityfashion.mk/product-category/mazi/,20,0,0
+1643794387580,20,Mazi-0,301,Moved Permanently,Thread Group 1-2,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,20,0,0
+1643794387600,14711,Mazi-1,200,OK,Thread Group 1-2,text,true,,392587,141,30,30,https://cityfashion.mk/product-category/mazi/,14574,0,0
+1643794387657,14697,Mazi,200,OK,Thread Group 1-8,text,true,,392962,286,30,30,https://cityfashion.mk/product-category/mazi/,25,0,0
+1643794387657,25,Mazi-0,301,Moved Permanently,Thread Group 1-8,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,25,0,0
+1643794387682,14672,Mazi-1,200,OK,Thread Group 1-8,text,true,,392587,141,30,30,https://cityfashion.mk/product-category/mazi/,14516,0,0
+1643794388453,14008,Mazi,200,OK,Thread Group 1-11,text,true,,392947,286,30,30,https://cityfashion.mk/product-category/mazi/,18,0,0
+1643794388453,18,Mazi-0,301,Moved Permanently,Thread Group 1-11,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,18,0,0
+1643794388471,13990,Mazi-1,200,OK,Thread Group 1-11,text,true,,392572,141,30,30,https://cityfashion.mk/product-category/mazi/,13752,0,0
+1643794389010,14312,Mazi,200,OK,Thread Group 1-26,text,true,,392970,286,30,30,https://cityfashion.mk/product-category/mazi/,26,0,0
+1643794389010,27,Mazi-0,301,Moved Permanently,Thread Group 1-26,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,26,0,0
+1643794389037,14285,Mazi-1,200,OK,Thread Group 1-26,text,true,,392595,141,30,30,https://cityfashion.mk/product-category/mazi/,14010,0,0
+1643794391393,12617,Zeni,200,OK,Thread Group 1-29,text,true,,388399,286,30,30,https://cityfashion.mk/product-category/zeni/,19,0,0
+1643794391393,19,Zeni-0,301,Moved Permanently,Thread Group 1-29,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,19,0,0
+1643794391412,12598,Zeni-1,200,OK,Thread Group 1-29,text,true,,388024,141,30,30,https://cityfashion.mk/product-category/zeni/,12507,0,0
+1643794390990,13386,Zeni,200,OK,Thread Group 1-17,text,true,,388407,286,30,30,https://cityfashion.mk/product-category/zeni/,21,0,0
+1643794390990,21,Zeni-0,301,Moved Permanently,Thread Group 1-17,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,21,0,0
+1643794391011,13365,Zeni-1,200,OK,Thread Group 1-17,text,true,,388032,141,30,30,https://cityfashion.mk/product-category/zeni/,13234,0,0
+1643794390729,13720,Zeni,200,OK,Thread Group 1-19,text,true,,388423,286,30,30,https://cityfashion.mk/product-category/zeni/,17,0,0
+1643794390729,17,Zeni-0,301,Moved Permanently,Thread Group 1-19,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,17,0,0
+1643794390746,13703,Zeni-1,200,OK,Thread Group 1-19,text,true,,388048,141,30,30,https://cityfashion.mk/product-category/zeni/,13597,0,0
+1643794391934,12838,Zeni,200,OK,Thread Group 1-30,text,true,,388431,286,30,30,https://cityfashion.mk/product-category/zeni/,35,0,0
+1643794391934,35,Zeni-0,301,Moved Permanently,Thread Group 1-30,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,35,0,0
+1643794391969,12803,Zeni-1,200,OK,Thread Group 1-30,text,true,,388056,141,30,30,https://cityfashion.mk/product-category/zeni/,12670,0,0
+1643794391564,13220,Zeni,200,OK,Thread Group 1-22,text,true,,388431,286,30,30,https://cityfashion.mk/product-category/zeni/,23,0,0
+1643794391564,23,Zeni-0,301,Moved Permanently,Thread Group 1-22,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,23,0,0
+1643794391587,13197,Zeni-1,200,OK,Thread Group 1-22,text,true,,388056,141,30,30,https://cityfashion.mk/product-category/zeni/,13079,0,0
+1643794392055,12999,Zeni,200,OK,Thread Group 1-27,text,true,,388463,286,30,30,https://cityfashion.mk/product-category/zeni/,14,0,0
+1643794392055,14,Zeni-0,301,Moved Permanently,Thread Group 1-27,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,14,0,0
+1643794392069,12985,Zeni-1,200,OK,Thread Group 1-27,text,true,,388088,141,30,30,https://cityfashion.mk/product-category/zeni/,12887,0,0
+1643794392919,14298,Zeni,200,OK,Thread Group 1-12,text,true,,388431,286,30,30,https://cityfashion.mk/product-category/zeni/,14,0,0
+1643794392919,14,Zeni-0,301,Moved Permanently,Thread Group 1-12,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,14,0,0
+1643794392933,14284,Zeni-1,200,OK,Thread Group 1-12,text,true,,388056,141,30,30,https://cityfashion.mk/product-category/zeni/,14187,0,0
+1643794394022,13930,Zeni,200,OK,Thread Group 1-20,text,true,,388423,286,30,30,https://cityfashion.mk/product-category/zeni/,253,0,0
+1643794394022,253,Zeni-0,301,Moved Permanently,Thread Group 1-20,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,253,0,0
+1643794394276,13676,Zeni-1,200,OK,Thread Group 1-20,text,true,,388048,141,30,30,https://cityfashion.mk/product-category/zeni/,13547,0,0
+1643794395312,12997,Zeni,200,OK,Thread Group 1-7,text,true,,388185,286,30,30,https://cityfashion.mk/product-category/zeni/,55,0,36
+1643794395312,55,Zeni-0,301,Moved Permanently,Thread Group 1-7,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,55,0,36
+1643794395368,12941,Zeni-1,200,OK,Thread Group 1-7,text,true,,387810,141,30,30,https://cityfashion.mk/product-category/zeni/,12835,0,63
+1643794394772,13696,Zeni,200,OK,Thread Group 1-28,text,true,,388431,286,30,30,https://cityfashion.mk/product-category/zeni/,16,0,0
+1643794394772,16,Zeni-0,301,Moved Permanently,Thread Group 1-28,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,16,0,0
+1643794394788,13680,Zeni-1,200,OK,Thread Group 1-28,text,true,,388056,141,30,30,https://cityfashion.mk/product-category/zeni/,13569,0,0
+1643794395393,13982,Zeni,200,OK,Thread Group 1-3,text,true,,388177,286,30,30,https://cityfashion.mk/product-category/zeni/,25,0,11
+1643794395393,25,Zeni-0,301,Moved Permanently,Thread Group 1-3,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,25,0,11
+1643794395418,13957,Zeni-1,200,OK,Thread Group 1-3,text,true,,387802,141,30,30,https://cityfashion.mk/product-category/zeni/,13857,0,63
+1643794395573,14347,Zeni,200,OK,Thread Group 1-4,text,true,,388185,286,30,30,https://cityfashion.mk/product-category/zeni/,27,0,13
+1643794395573,27,Zeni-0,301,Moved Permanently,Thread Group 1-4,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,27,0,13
+1643794395601,14319,Zeni-1,200,OK,Thread Group 1-4,text,true,,387810,141,30,30,https://cityfashion.mk/product-category/zeni/,14221,0,49
+1643794396070,14298,Zeni,200,OK,Thread Group 1-23,text,true,,388161,286,30,30,https://cityfashion.mk/product-category/zeni/,33,0,16
+1643794396070,33,Zeni-0,301,Moved Permanently,Thread Group 1-23,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,33,0,16
+1643794396103,14265,Zeni-1,200,OK,Thread Group 1-23,text,true,,387786,141,30,30,https://cityfashion.mk/product-category/zeni/,14174,0,49
+1643794397048,13431,Zeni,200,OK,Thread Group 1-5,text,true,,388154,286,30,30,https://cityfashion.mk/product-category/zeni/,28,0,15
+1643794397048,28,Zeni-0,301,Moved Permanently,Thread Group 1-5,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,28,0,15
+1643794397076,13403,Zeni-1,200,OK,Thread Group 1-5,text,true,,387779,141,30,30,https://cityfashion.mk/product-category/zeni/,13289,0,55
+1643794397555,13348,Zeni,200,OK,Thread Group 1-15,text,true,,388146,286,30,30,https://cityfashion.mk/product-category/zeni/,25,0,11
+1643794397555,25,Zeni-0,301,Moved Permanently,Thread Group 1-15,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,25,0,11
+1643794397580,13323,Zeni-1,200,OK,Thread Group 1-15,text,true,,387771,141,30,30,https://cityfashion.mk/product-category/zeni/,13145,0,63
+1643794398119,13480,Zeni,200,OK,Thread Group 1-14,text,true,,388154,286,30,30,https://cityfashion.mk/product-category/zeni/,35,0,15
+1643794398119,35,Zeni-0,301,Moved Permanently,Thread Group 1-14,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,35,0,15
+1643794398154,13445,Zeni-1,200,OK,Thread Group 1-14,text,true,,387779,141,30,30,https://cityfashion.mk/product-category/zeni/,13321,0,44
+1643794398362,13337,Zeni,200,OK,Thread Group 1-9,text,true,,388154,286,30,30,https://cityfashion.mk/product-category/zeni/,38,0,18
+1643794398362,38,Zeni-0,301,Moved Permanently,Thread Group 1-9,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,38,0,18
+1643794398401,13298,Zeni-1,200,OK,Thread Group 1-9,text,true,,387779,141,30,30,https://cityfashion.mk/product-category/zeni/,13151,0,64
+1643794398131,13576,Zeni,200,OK,Thread Group 1-25,text,true,,388146,286,30,30,https://cityfashion.mk/product-category/zeni/,26,0,15
+1643794398131,27,Zeni-0,301,Moved Permanently,Thread Group 1-25,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,26,0,15
+1643794398158,13549,Zeni-1,200,OK,Thread Group 1-25,text,true,,387771,141,30,30,https://cityfashion.mk/product-category/zeni/,13399,0,45
+1643794398819,13505,Zeni,200,OK,Thread Group 1-24,text,true,,388162,286,30,30,https://cityfashion.mk/product-category/zeni/,32,0,14
+1643794398819,32,Zeni-0,301,Moved Permanently,Thread Group 1-24,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,32,0,14
+1643794398851,13473,Zeni-1,200,OK,Thread Group 1-24,text,true,,387787,141,30,30,https://cityfashion.mk/product-category/zeni/,13348,0,59
+1643794398912,14095,Zeni,200,OK,Thread Group 1-16,text,true,,388176,286,30,30,https://cityfashion.mk/product-category/zeni/,25,0,10
+1643794398912,25,Zeni-0,301,Moved Permanently,Thread Group 1-16,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,25,0,10
+1643794398937,14070,Zeni-1,200,OK,Thread Group 1-16,text,true,,387801,141,30,30,https://cityfashion.mk/product-category/zeni/,13966,0,53
+1643794399281,13865,Zeni,200,OK,Thread Group 1-21,text,true,,388177,286,30,30,https://cityfashion.mk/product-category/zeni/,24,0,12
+1643794399281,24,Zeni-0,301,Moved Permanently,Thread Group 1-21,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,24,0,12
+1643794399305,13841,Zeni-1,200,OK,Thread Group 1-21,text,true,,387802,141,30,30,https://cityfashion.mk/product-category/zeni/,13742,0,48
+1643794400865,12809,Zeni,200,OK,Thread Group 1-6,text,true,,388177,286,30,30,https://cityfashion.mk/product-category/zeni/,29,0,15
+1643794400865,29,Zeni-0,301,Moved Permanently,Thread Group 1-6,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,29,0,15
+1643794400895,12779,Zeni-1,200,OK,Thread Group 1-6,text,true,,387802,141,30,30,https://cityfashion.mk/product-category/zeni/,12677,0,47
+1643794400712,13068,Zeni,200,OK,Thread Group 1-13,text,true,,388176,286,30,30,https://cityfashion.mk/product-category/zeni/,31,0,16
+1643794400712,31,Zeni-0,301,Moved Permanently,Thread Group 1-13,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,31,0,16
+1643794400743,13037,Zeni-1,200,OK,Thread Group 1-13,text,true,,387801,141,30,30,https://cityfashion.mk/product-category/zeni/,12922,0,69
+1643794401885,12486,Zeni,200,OK,Thread Group 1-10,text,true,,388169,286,30,30,https://cityfashion.mk/product-category/zeni/,28,0,15
+1643794401885,28,Zeni-0,301,Moved Permanently,Thread Group 1-10,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,28,0,15
+1643794401913,12458,Zeni-1,200,OK,Thread Group 1-10,text,true,,387794,141,30,30,https://cityfashion.mk/product-category/zeni/,12365,0,55
+1643794401204,14008,Zeni,200,OK,Thread Group 1-1,text,true,,388200,286,30,30,https://cityfashion.mk/product-category/zeni/,26,0,11
+1643794401204,26,Zeni-0,301,Moved Permanently,Thread Group 1-1,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,26,0,11
+1643794401230,13982,Zeni-1,200,OK,Thread Group 1-1,text,true,,387825,141,30,30,https://cityfashion.mk/product-category/zeni/,13840,0,58
+1643794402310,12950,Zeni,200,OK,Thread Group 1-2,text,true,,388162,286,30,30,https://cityfashion.mk/product-category/zeni/,41,0,19
+1643794402310,41,Zeni-0,301,Moved Permanently,Thread Group 1-2,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,41,0,19
+1643794402351,12909,Zeni-1,200,OK,Thread Group 1-2,text,true,,387787,141,30,30,https://cityfashion.mk/product-category/zeni/,12763,0,76
+1643794402353,13011,Zeni,200,OK,Thread Group 1-8,text,true,,388146,286,30,30,https://cityfashion.mk/product-category/zeni/,53,0,38
+1643794402353,53,Zeni-0,301,Moved Permanently,Thread Group 1-8,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,53,0,38
+1643794402406,12958,Zeni-1,200,OK,Thread Group 1-8,text,true,,387771,141,30,30,https://cityfashion.mk/product-category/zeni/,12818,0,70
+1643794402461,13317,Zeni,200,OK,Thread Group 1-11,text,true,,388153,286,30,30,https://cityfashion.mk/product-category/zeni/,27,0,11
+1643794402461,27,Zeni-0,301,Moved Permanently,Thread Group 1-11,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,27,0,11
+1643794402488,13290,Zeni-1,200,OK,Thread Group 1-11,text,true,,387778,141,30,30,https://cityfashion.mk/product-category/zeni/,13151,0,54
+1643794401776,14936,Zeni,200,OK,Thread Group 1-18,text,true,,388146,286,30,30,https://cityfashion.mk/product-category/zeni/,28,0,11
+1643794401776,28,Zeni-0,301,Moved Permanently,Thread Group 1-18,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,28,0,11
+1643794401804,14908,Zeni-1,200,OK,Thread Group 1-18,text,true,,387771,141,30,30,https://cityfashion.mk/product-category/zeni/,14711,0,1063
+1643794404011,12730,Novo,200,OK,Thread Group 1-29,text,true,,383876,252,30,30,https://cityfashion.mk/novo/,27,0,14
+1643794404011,27,Novo-0,301,Moved Permanently,Thread Group 1-29,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,27,0,14
+1643794404038,12703,Novo-1,200,OK,Thread Group 1-29,text,true,,383518,124,30,30,https://cityfashion.mk/novo/,12573,0,55
+1643794403321,13477,Zeni,200,OK,Thread Group 1-26,text,true,,388147,286,30,30,https://cityfashion.mk/product-category/zeni/,33,0,17
+1643794403321,33,Zeni-0,301,Moved Permanently,Thread Group 1-26,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,33,0,17
+1643794403355,13443,Zeni-1,200,OK,Thread Group 1-26,text,true,,387772,141,30,30,https://cityfashion.mk/product-category/zeni/,13073,0,63
+1643794404450,13183,Novo,200,OK,Thread Group 1-19,text,true,,383900,252,30,30,https://cityfashion.mk/novo/,27,0,16
+1643794404450,27,Novo-0,301,Moved Permanently,Thread Group 1-19,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,27,0,16
+1643794404477,13156,Novo-1,200,OK,Thread Group 1-19,text,true,,383542,124,30,30,https://cityfashion.mk/novo/,13044,0,48
+1643794404376,13346,Novo,200,OK,Thread Group 1-17,text,true,,383907,252,30,30,https://cityfashion.mk/novo/,36,0,19
+1643794404376,36,Novo-0,301,Moved Permanently,Thread Group 1-17,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,36,0,19
+1643794404412,13310,Novo-1,200,OK,Thread Group 1-17,text,true,,383549,124,30,30,https://cityfashion.mk/novo/,13197,0,55
+1643794405054,13371,Novo,200,OK,Thread Group 1-27,text,true,,383930,252,30,30,https://cityfashion.mk/novo/,26,0,15
+1643794405054,26,Novo-0,301,Moved Permanently,Thread Group 1-27,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,26,0,15
+1643794405080,13345,Novo-1,200,OK,Thread Group 1-27,text,true,,383572,124,30,30,https://cityfashion.mk/novo/,13236,0,50
+1643794404784,13813,Novo,200,OK,Thread Group 1-22,text,true,,383891,252,30,30,https://cityfashion.mk/novo/,31,0,19
+1643794404784,31,Novo-0,301,Moved Permanently,Thread Group 1-22,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,31,0,19
+1643794404815,13782,Novo-1,200,OK,Thread Group 1-22,text,true,,383533,124,30,30,https://cityfashion.mk/novo/,13628,0,54
+1643794404773,13855,Novo,200,OK,Thread Group 1-30,text,true,,383892,252,30,30,https://cityfashion.mk/novo/,33,0,14
+1643794404773,33,Novo-0,301,Moved Permanently,Thread Group 1-30,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,33,0,14
+1643794404806,13822,Novo-1,200,OK,Thread Group 1-30,text,true,,383534,124,30,30,https://cityfashion.mk/novo/,13704,0,62
+1643794407217,12269,Novo,200,OK,Thread Group 1-12,text,true,,383930,252,30,30,https://cityfashion.mk/novo/,29,0,15
+1643794407217,29,Novo-0,301,Moved Permanently,Thread Group 1-12,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,29,0,15
+1643794407246,12240,Novo-1,200,OK,Thread Group 1-12,text,true,,383572,124,30,30,https://cityfashion.mk/novo/,12153,0,54
+1643794407952,12846,Novo,200,OK,Thread Group 1-20,text,true,,383869,252,30,30,https://cityfashion.mk/novo/,30,0,15
+1643794407952,30,Novo-0,301,Moved Permanently,Thread Group 1-20,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,30,0,15
+1643794407982,12816,Novo-1,200,OK,Thread Group 1-20,text,true,,383511,124,30,30,https://cityfashion.mk/novo/,12567,0,57
+1643794408309,13004,Novo,200,OK,Thread Group 1-7,text,true,,384145,252,30,30,https://cityfashion.mk/novo/,26,0,0
+1643794408309,26,Novo-0,301,Moved Permanently,Thread Group 1-7,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,26,0,0
+1643794408335,12978,Novo-1,200,OK,Thread Group 1-7,text,true,,383787,124,30,30,https://cityfashion.mk/novo/,12875,0,0
+1643794408468,13143,Novo,200,OK,Thread Group 1-28,text,true,,383930,252,30,30,https://cityfashion.mk/novo/,28,0,12
+1643794408468,28,Novo-0,301,Moved Permanently,Thread Group 1-28,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,28,0,12
+1643794408496,13115,Novo-1,200,OK,Thread Group 1-28,text,true,,383572,124,30,30,https://cityfashion.mk/novo/,13027,0,50
+1643794409375,12385,Novo,200,OK,Thread Group 1-3,text,true,,384153,252,30,30,https://cityfashion.mk/novo/,27,0,0
+1643794409375,27,Novo-0,301,Moved Permanently,Thread Group 1-3,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,27,0,0
+1643794409402,12358,Novo-1,200,OK,Thread Group 1-3,text,true,,383795,124,30,30,https://cityfashion.mk/novo/,12255,0,0
+1643794410369,11737,Novo,200,OK,Thread Group 1-23,text,true,,384145,252,30,30,https://cityfashion.mk/novo/,21,0,0
+1643794410369,21,Novo-0,301,Moved Permanently,Thread Group 1-23,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,21,0,0
+1643794410391,11715,Novo-1,200,OK,Thread Group 1-23,text,true,,383787,124,30,30,https://cityfashion.mk/novo/,11567,0,0
+1643794409921,12198,Novo,200,OK,Thread Group 1-4,text,true,,384122,252,30,30,https://cityfashion.mk/novo/,26,0,0
+1643794409921,26,Novo-0,301,Moved Permanently,Thread Group 1-4,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,26,0,0
+1643794409947,12172,Novo-1,200,OK,Thread Group 1-4,text,true,,383764,124,30,30,https://cityfashion.mk/novo/,12021,0,0
+1643794410479,11696,Novo,200,OK,Thread Group 1-5,text,true,,384122,252,30,30,https://cityfashion.mk/novo/,17,0,0
+1643794410479,17,Novo-0,301,Moved Permanently,Thread Group 1-5,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,17,0,0
+1643794410496,11679,Novo-1,200,OK,Thread Group 1-5,text,true,,383764,124,30,30,https://cityfashion.mk/novo/,11538,0,0
+1643794410904,11851,Novo,200,OK,Thread Group 1-15,text,true,,383979,252,30,30,https://cityfashion.mk/novo/,15,0,0
+1643794410904,15,Novo-0,301,Moved Permanently,Thread Group 1-15,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,15,0,0
+1643794410919,11836,Novo-1,200,OK,Thread Group 1-15,text,true,,383621,124,30,30,https://cityfashion.mk/novo/,11686,0,0
+1643794411600,12157,Novo,200,OK,Thread Group 1-14,text,true,,384145,252,30,30,https://cityfashion.mk/novo/,28,0,0
+1643794411600,28,Novo-0,301,Moved Permanently,Thread Group 1-14,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,28,0,0
+1643794411628,12129,Novo-1,200,OK,Thread Group 1-14,text,true,,383787,124,30,30,https://cityfashion.mk/novo/,12024,0,0
+1643794411707,12551,Novo,200,OK,Thread Group 1-25,text,true,,384153,252,30,30,https://cityfashion.mk/novo/,21,0,0
+1643794411707,21,Novo-0,301,Moved Permanently,Thread Group 1-25,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,21,0,0
+1643794411729,12529,Novo-1,200,OK,Thread Group 1-25,text,true,,383795,124,30,30,https://cityfashion.mk/novo/,12440,0,0
+1643794411700,13101,Novo,200,OK,Thread Group 1-9,text,true,,384153,252,30,30,https://cityfashion.mk/novo/,31,0,0
+1643794411700,31,Novo-0,301,Moved Permanently,Thread Group 1-9,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,31,0,0
+1643794411731,13070,Novo-1,200,OK,Thread Group 1-9,text,true,,383795,124,30,30,https://cityfashion.mk/novo/,12936,0,0
+1643794413146,11871,Novo,200,OK,Thread Group 1-21,text,true,,384137,252,30,30,https://cityfashion.mk/novo/,13,0,0
+1643794413146,13,Novo-0,301,Moved Permanently,Thread Group 1-21,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,13,0,0
+1643794413159,11858,Novo-1,200,OK,Thread Group 1-21,text,true,,383779,124,30,30,https://cityfashion.mk/novo/,11748,0,0
+1643794413008,12168,Novo,200,OK,Thread Group 1-16,text,true,,384137,252,30,30,https://cityfashion.mk/novo/,24,0,0
+1643794413008,24,Novo-0,301,Moved Permanently,Thread Group 1-16,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,24,0,0
+1643794413032,12144,Novo-1,200,OK,Thread Group 1-16,text,true,,383779,124,30,30,https://cityfashion.mk/novo/,12044,0,0
+1643794413781,11492,Novo,200,OK,Thread Group 1-13,text,true,,384114,252,30,30,https://cityfashion.mk/novo/,16,0,0
+1643794413781,16,Novo-0,301,Moved Permanently,Thread Group 1-13,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,16,0,0
+1643794413797,11476,Novo-1,200,OK,Thread Group 1-13,text,true,,383756,124,30,30,https://cityfashion.mk/novo/,11371,0,0
+1643794412325,13060,Novo,200,OK,Thread Group 1-24,text,true,,384145,252,30,30,https://cityfashion.mk/novo/,24,0,0
+1643794412325,24,Novo-0,301,Moved Permanently,Thread Group 1-24,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,24,0,0
+1643794412349,13036,Novo-1,200,OK,Thread Group 1-24,text,true,,383787,124,30,30,https://cityfashion.mk/novo/,12919,0,0
+1643794414371,11117,Novo,200,OK,Thread Group 1-10,text,true,,384145,252,30,30,https://cityfashion.mk/novo/,21,0,0
+1643794414371,21,Novo-0,301,Moved Permanently,Thread Group 1-10,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,21,0,0
+1643794414392,11096,Novo-1,200,OK,Thread Group 1-10,text,true,,383787,124,30,30,https://cityfashion.mk/novo/,10978,0,0
+1643794413674,12090,Novo,200,OK,Thread Group 1-6,text,true,,384153,252,30,30,https://cityfashion.mk/novo/,18,0,0
+1643794413674,18,Novo-0,301,Moved Permanently,Thread Group 1-6,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,18,0,0
+1643794413693,12071,Novo-1,200,OK,Thread Group 1-6,text,true,,383795,124,30,30,https://cityfashion.mk/novo/,11979,0,0
+1643794415212,10716,Novo,200,OK,Thread Group 1-1,text,true,,384105,252,30,30,https://cityfashion.mk/novo/,23,0,0
+1643794415212,23,Novo-0,301,Moved Permanently,Thread Group 1-1,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,23,0,0
+1643794415235,10693,Novo-1,200,OK,Thread Group 1-1,text,true,,383747,124,30,30,https://cityfashion.mk/novo/,10547,0,0
+1643794415260,11628,Novo,200,OK,Thread Group 1-2,text,true,,384153,252,30,30,https://cityfashion.mk/novo/,39,0,0
+1643794415260,39,Novo-0,301,Moved Permanently,Thread Group 1-2,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,39,0,0
+1643794415299,11589,Novo-1,200,OK,Thread Group 1-2,text,true,,383795,124,30,30,https://cityfashion.mk/novo/,11501,0,0
+1643794415778,11963,Novo,200,OK,Thread Group 1-11,text,true,,383978,252,30,30,https://cityfashion.mk/novo/,26,0,0
+1643794415778,26,Novo-0,301,Moved Permanently,Thread Group 1-11,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,26,0,0
+1643794415804,11937,Novo-1,200,OK,Thread Group 1-11,text,true,,383620,124,30,30,https://cityfashion.mk/novo/,11803,0,0
+1643794415364,12778,Novo,200,OK,Thread Group 1-8,text,true,,384042,252,30,30,https://cityfashion.mk/novo/,17,0,0
+1643794415364,17,Novo-0,301,Moved Permanently,Thread Group 1-8,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,17,0,0
+1643794415382,12760,Novo-1,200,OK,Thread Group 1-8,text,true,,383684,124,30,30,https://cityfashion.mk/novo/,12647,0,0
+1643794416713,11692,Novo,200,OK,Thread Group 1-18,text,true,,383994,252,30,30,https://cityfashion.mk/novo/,34,0,0
+1643794416713,34,Novo-0,301,Moved Permanently,Thread Group 1-18,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,34,0,0
+1643794416747,11658,Novo-1,200,OK,Thread Group 1-18,text,true,,383636,124,30,30,https://cityfashion.mk/novo/,11544,0,0
+1643794416799,12478,Novo,200,OK,Thread Group 1-26,text,true,,383916,252,30,30,https://cityfashion.mk/novo/,24,0,0
+1643794416799,24,Novo-0,301,Moved Permanently,Thread Group 1-26,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,24,0,0
+1643794416823,12454,Novo-1,200,OK,Thread Group 1-26,text,true,,383558,124,30,30,https://cityfashion.mk/novo/,12285,0,0
+1643794417722,11725,Mazi,200,OK,Thread Group 1-17,text,true,,392947,286,30,30,https://cityfashion.mk/product-category/mazi/,14,0,0
+1643794417722,14,Mazi-0,301,Moved Permanently,Thread Group 1-17,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,14,0,0
+1643794417736,11711,Mazi-1,200,OK,Thread Group 1-17,text,true,,392572,141,30,30,https://cityfashion.mk/product-category/mazi/,11570,0,0
+1643794418597,10921,Mazi,200,OK,Thread Group 1-22,text,true,,392947,286,30,30,https://cityfashion.mk/product-category/mazi/,33,0,0
+1643794418597,33,Mazi-0,301,Moved Permanently,Thread Group 1-22,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,33,0,0
+1643794418630,10888,Mazi-1,200,OK,Thread Group 1-22,text,true,,392572,141,30,30,https://cityfashion.mk/product-category/mazi/,10689,0,0
+1643794416742,12809,Mazi,200,OK,Thread Group 1-29,text,true,,392995,286,30,30,https://cityfashion.mk/product-category/mazi/,20,0,0
+1643794416742,20,Mazi-0,301,Moved Permanently,Thread Group 1-29,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,20,0,0
+1643794416762,12789,Mazi-1,200,OK,Thread Group 1-29,text,true,,392620,141,30,30,https://cityfashion.mk/product-category/mazi/,12648,0,0
+1643794417633,12014,Mazi,200,OK,Thread Group 1-19,text,true,,392962,286,30,30,https://cityfashion.mk/product-category/mazi/,38,0,0
+1643794417633,38,Mazi-0,301,Moved Permanently,Thread Group 1-19,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,38,0,0
+1643794417671,11976,Mazi-1,200,OK,Thread Group 1-19,text,true,,392587,141,30,30,https://cityfashion.mk/product-category/mazi/,11863,0,0
+1643794418426,11473,Mazi,200,OK,Thread Group 1-27,text,true,,392962,286,30,30,https://cityfashion.mk/product-category/mazi/,36,0,0
+1643794418426,36,Mazi-0,301,Moved Permanently,Thread Group 1-27,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,36,0,0
+1643794418462,11437,Mazi-1,200,OK,Thread Group 1-27,text,true,,392587,141,30,30,https://cityfashion.mk/product-category/mazi/,11331,0,0
+1643794418629,11751,Mazi,200,OK,Thread Group 1-30,text,true,,392955,286,30,30,https://cityfashion.mk/product-category/mazi/,30,0,0
+1643794418629,30,Mazi-0,301,Moved Permanently,Thread Group 1-30,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,30,0,0
+1643794418659,11721,Mazi-1,200,OK,Thread Group 1-30,text,true,,392580,141,30,30,https://cityfashion.mk/product-category/mazi/,11614,0,0
+1643794419486,12156,Mazi,200,OK,Thread Group 1-12,text,true,,392947,286,30,30,https://cityfashion.mk/product-category/mazi/,13,0,0
+1643794419486,13,Mazi-0,301,Moved Permanently,Thread Group 1-12,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,13,0,0
+1643794419499,12143,Mazi-1,200,OK,Thread Group 1-12,text,true,,392572,141,30,30,https://cityfashion.mk/product-category/mazi/,12048,0,0
+1643794420798,11279,Mazi,200,OK,Thread Group 1-20,text,true,,392780,286,30,30,https://cityfashion.mk/product-category/mazi/,18,0,0
+1643794420798,18,Mazi-0,301,Moved Permanently,Thread Group 1-20,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,18,0,0
+1643794420816,11261,Mazi-1,200,OK,Thread Group 1-20,text,true,,392405,141,30,30,https://cityfashion.mk/product-category/mazi/,11055,0,0
+1643794421611,11229,Mazi,200,OK,Thread Group 1-28,text,true,,392970,286,30,30,https://cityfashion.mk/product-category/mazi/,25,0,0
+1643794421611,25,Mazi-0,301,Moved Permanently,Thread Group 1-28,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,25,0,0
+1643794421636,11204,Mazi-1,200,OK,Thread Group 1-28,text,true,,392595,141,30,30,https://cityfashion.mk/product-category/mazi/,11109,0,0
+1643794421313,11657,Mazi,200,OK,Thread Group 1-7,text,true,,392955,286,30,30,https://cityfashion.mk/product-category/mazi/,26,0,0
+1643794421313,26,Mazi-0,301,Moved Permanently,Thread Group 1-7,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,26,0,0
+1643794421339,11631,Mazi-1,200,OK,Thread Group 1-7,text,true,,392580,141,30,30,https://cityfashion.mk/product-category/mazi/,11518,0,0
+1643794421760,11267,Mazi,200,OK,Thread Group 1-3,text,true,,392955,286,30,30,https://cityfashion.mk/product-category/mazi/,14,0,0
+1643794421760,14,Mazi-0,301,Moved Permanently,Thread Group 1-3,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,14,0,0
+1643794421774,11253,Mazi-1,200,OK,Thread Group 1-3,text,true,,392580,141,30,30,https://cityfashion.mk/product-category/mazi/,11128,0,0
+1643794422107,11105,Mazi,200,OK,Thread Group 1-23,text,true,,392962,286,30,30,https://cityfashion.mk/product-category/mazi/,28,0,0
+1643794422107,28,Mazi-0,301,Moved Permanently,Thread Group 1-23,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,28,0,0
+1643794422135,11077,Mazi-1,200,OK,Thread Group 1-23,text,true,,392587,141,30,30,https://cityfashion.mk/product-category/mazi/,10977,0,0
+1643794422119,11532,Mazi,200,OK,Thread Group 1-4,text,true,,392931,286,30,30,https://cityfashion.mk/product-category/mazi/,36,0,0
+1643794422119,36,Mazi-0,301,Moved Permanently,Thread Group 1-4,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,36,0,0
+1643794422155,11496,Mazi-1,200,OK,Thread Group 1-4,text,true,,392556,141,30,30,https://cityfashion.mk/product-category/mazi/,11395,0,0
+1643794422175,11742,Mazi,200,OK,Thread Group 1-5,text,true,,392962,286,30,30,https://cityfashion.mk/product-category/mazi/,31,0,0
+1643794422175,32,Mazi-0,301,Moved Permanently,Thread Group 1-5,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,31,0,0
+1643794422207,11710,Mazi-1,200,OK,Thread Group 1-5,text,true,,392587,141,30,30,https://cityfashion.mk/product-category/mazi/,11606,0,0
+1643794423757,11707,Mazi,200,OK,Thread Group 1-14,text,true,,392955,286,30,30,https://cityfashion.mk/product-category/mazi/,26,0,0
+1643794423757,26,Mazi-0,301,Moved Permanently,Thread Group 1-14,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,26,0,0
+1643794423783,11681,Mazi-1,200,OK,Thread Group 1-14,text,true,,392580,141,30,30,https://cityfashion.mk/product-category/mazi/,11534,0,0
+1643794424258,11312,Mazi,200,OK,Thread Group 1-25,text,true,,392962,286,30,30,https://cityfashion.mk/product-category/mazi/,21,0,0
+1643794424258,21,Mazi-0,301,Moved Permanently,Thread Group 1-25,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,21,0,0
+1643794424279,11291,Mazi-1,200,OK,Thread Group 1-25,text,true,,392587,141,30,30,https://cityfashion.mk/product-category/mazi/,11173,0,0
+1643794422755,13001,Mazi,200,OK,Thread Group 1-15,text,true,,392859,286,30,30,https://cityfashion.mk/product-category/mazi/,21,0,0
+1643794422755,21,Mazi-0,301,Moved Permanently,Thread Group 1-15,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,21,0,0
+1643794422776,12980,Mazi-1,200,OK,Thread Group 1-15,text,true,,392484,141,30,30,https://cityfashion.mk/product-category/mazi/,12829,0,0
+1643794425017,11141,Mazi,200,OK,Thread Group 1-21,text,true,,392978,286,30,30,https://cityfashion.mk/product-category/mazi/,16,0,0
+1643794425017,16,Mazi-0,301,Moved Permanently,Thread Group 1-21,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,16,0,0
+1643794425033,11125,Mazi-1,200,OK,Thread Group 1-21,text,true,,392603,141,30,30,https://cityfashion.mk/product-category/mazi/,11024,0,0
+1643794425176,11054,Mazi,200,OK,Thread Group 1-16,text,true,,392970,286,30,30,https://cityfashion.mk/product-category/mazi/,22,0,0
+1643794425176,22,Mazi-0,301,Moved Permanently,Thread Group 1-16,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,22,0,0
+1643794425199,11031,Mazi-1,200,OK,Thread Group 1-16,text,true,,392595,141,30,30,https://cityfashion.mk/product-category/mazi/,10919,0,0
+1643794425385,11400,Mazi,200,OK,Thread Group 1-24,text,true,,392962,286,30,30,https://cityfashion.mk/product-category/mazi/,36,0,0
+1643794425385,36,Mazi-0,301,Moved Permanently,Thread Group 1-24,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,36,0,0
+1643794425421,11364,Mazi-1,200,OK,Thread Group 1-24,text,true,,392587,141,30,30,https://cityfashion.mk/product-category/mazi/,11236,0,0
+1643794424801,12032,Mazi,200,OK,Thread Group 1-9,text,true,,392954,286,30,30,https://cityfashion.mk/product-category/mazi/,18,0,0
+1643794424801,18,Mazi-0,301,Moved Permanently,Thread Group 1-9,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,18,0,0
+1643794424819,12014,Mazi-1,200,OK,Thread Group 1-9,text,true,,392579,141,30,30,https://cityfashion.mk/product-category/mazi/,11786,0,0
+1643794425489,11464,Mazi,200,OK,Thread Group 1-10,text,true,,392962,286,30,30,https://cityfashion.mk/product-category/mazi/,30,0,0
+1643794425489,30,Mazi-0,301,Moved Permanently,Thread Group 1-10,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,30,0,0
+1643794425519,11434,Mazi-1,200,OK,Thread Group 1-10,text,true,,392587,141,30,30,https://cityfashion.mk/product-category/mazi/,11283,0,0
+1643794425273,11742,Mazi,200,OK,Thread Group 1-13,text,true,,392962,286,30,30,https://cityfashion.mk/product-category/mazi/,31,0,0
+1643794425273,31,Mazi-0,301,Moved Permanently,Thread Group 1-13,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,31,0,0
+1643794425304,11711,Mazi-1,200,OK,Thread Group 1-13,text,true,,392587,141,30,30,https://cityfashion.mk/product-category/mazi/,11549,0,0
+1643794425764,11502,Mazi,200,OK,Thread Group 1-6,text,true,,392970,286,30,30,https://cityfashion.mk/product-category/mazi/,19,0,0
+1643794425764,19,Mazi-0,301,Moved Permanently,Thread Group 1-6,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,19,0,0
+1643794425783,11483,Mazi-1,200,OK,Thread Group 1-6,text,true,,392595,141,30,30,https://cityfashion.mk/product-category/mazi/,11389,0,0
+1643794425928,12834,Mazi,200,OK,Thread Group 1-1,text,true,,392970,286,30,30,https://cityfashion.mk/product-category/mazi/,23,0,0
+1643794425928,23,Mazi-0,301,Moved Permanently,Thread Group 1-1,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,23,0,0
+1643794425951,12811,Mazi-1,200,OK,Thread Group 1-1,text,true,,392595,141,30,30,https://cityfashion.mk/product-category/mazi/,12694,0,0
+1643794426888,12470,Mazi,200,OK,Thread Group 1-2,text,true,,392970,286,30,30,https://cityfashion.mk/product-category/mazi/,17,0,0
+1643794426888,17,Mazi-0,301,Moved Permanently,Thread Group 1-2,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,17,0,0
+1643794426905,12453,Mazi-1,200,OK,Thread Group 1-2,text,true,,392595,141,30,30,https://cityfashion.mk/product-category/mazi/,12349,0,0
+1643794427741,11915,Mazi,200,OK,Thread Group 1-11,text,true,,392827,286,30,30,https://cityfashion.mk/product-category/mazi/,16,0,0
+1643794427741,16,Mazi-0,301,Moved Permanently,Thread Group 1-11,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,16,0,0
+1643794427757,11899,Mazi-1,200,OK,Thread Group 1-11,text,true,,392452,141,30,30,https://cityfashion.mk/product-category/mazi/,11784,0,0
+1643794429447,10301,Zeni,200,OK,Thread Group 1-17,text,true,,388416,286,30,30,https://cityfashion.mk/product-category/zeni/,34,0,0
+1643794429447,35,Zeni-0,301,Moved Permanently,Thread Group 1-17,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,34,0,0
+1643794429482,10266,Zeni-1,200,OK,Thread Group 1-17,text,true,,388041,141,30,30,https://cityfashion.mk/product-category/zeni/,10160,0,0
+1643794428406,11583,Mazi,200,OK,Thread Group 1-18,text,true,,392835,286,30,30,https://cityfashion.mk/product-category/mazi/,21,0,0
+1643794428406,21,Mazi-0,301,Moved Permanently,Thread Group 1-18,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,21,0,0
+1643794428427,11562,Mazi-1,200,OK,Thread Group 1-18,text,true,,392460,141,30,30,https://cityfashion.mk/product-category/mazi/,11441,0,0
+1643794429277,11151,Mazi,200,OK,Thread Group 1-26,text,true,,392803,286,30,30,https://cityfashion.mk/product-category/mazi/,24,0,0
+1643794429277,25,Mazi-0,301,Moved Permanently,Thread Group 1-26,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,24,0,0
+1643794429302,11126,Mazi-1,200,OK,Thread Group 1-26,text,true,,392428,141,30,30,https://cityfashion.mk/product-category/mazi/,11001,0,0
+1643794428143,12447,Mazi,200,OK,Thread Group 1-8,text,true,,392891,286,30,30,https://cityfashion.mk/product-category/mazi/,19,0,0
+1643794428143,19,Mazi-0,301,Moved Permanently,Thread Group 1-8,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,19,0,0
+1643794428162,12428,Mazi-1,200,OK,Thread Group 1-8,text,true,,392516,141,30,30,https://cityfashion.mk/product-category/mazi/,12311,0,0
+1643794429519,11396,Zeni,200,OK,Thread Group 1-22,text,true,,388424,286,30,30,https://cityfashion.mk/product-category/zeni/,15,0,0
+1643794429519,15,Zeni-0,301,Moved Permanently,Thread Group 1-22,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,15,0,0
+1643794429534,11381,Zeni-1,200,OK,Thread Group 1-22,text,true,,388049,141,30,30,https://cityfashion.mk/product-category/zeni/,11262,0,0
+1643794429551,11902,Zeni,200,OK,Thread Group 1-29,text,true,,388431,286,30,30,https://cityfashion.mk/product-category/zeni/,21,0,0
+1643794429551,21,Zeni-0,301,Moved Permanently,Thread Group 1-29,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,21,0,0
+1643794429572,11881,Zeni-1,200,OK,Thread Group 1-29,text,true,,388056,141,30,30,https://cityfashion.mk/product-category/zeni/,11725,0,0
+1643794429647,12677,Zeni,200,OK,Thread Group 1-19,text,true,,388463,286,30,30,https://cityfashion.mk/product-category/zeni/,26,0,0
+1643794429647,26,Zeni-0,301,Moved Permanently,Thread Group 1-19,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,26,0,0
+1643794429673,12651,Zeni-1,200,OK,Thread Group 1-19,text,true,,388088,141,30,30,https://cityfashion.mk/product-category/zeni/,12563,0,0
+1643794430380,12199,Zeni,200,OK,Thread Group 1-30,text,true,,388424,286,30,30,https://cityfashion.mk/product-category/zeni/,30,0,0
+1643794430380,30,Zeni-0,301,Moved Permanently,Thread Group 1-30,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,30,0,0
+1643794430410,12169,Zeni-1,200,OK,Thread Group 1-30,text,true,,388049,141,30,30,https://cityfashion.mk/product-category/zeni/,12001,0,0
+1643794429899,12907,Zeni,200,OK,Thread Group 1-27,text,true,,388423,286,30,30,https://cityfashion.mk/product-category/zeni/,24,0,0
+1643794429899,24,Zeni-0,301,Moved Permanently,Thread Group 1-27,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,24,0,0
+1643794429923,12883,Zeni-1,200,OK,Thread Group 1-27,text,true,,388048,141,30,30,https://cityfashion.mk/product-category/zeni/,12755,0,0
+1643794431642,11437,Zeni,200,OK,Thread Group 1-12,text,true,,388431,286,30,30,https://cityfashion.mk/product-category/zeni/,26,0,0
+1643794431642,26,Zeni-0,301,Moved Permanently,Thread Group 1-12,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,26,0,0
+1643794431668,11411,Zeni-1,200,OK,Thread Group 1-12,text,true,,388056,141,30,30,https://cityfashion.mk/product-category/zeni/,11279,0,0
+1643794432078,11127,Zeni,200,OK,Thread Group 1-20,text,true,,388265,286,30,30,https://cityfashion.mk/product-category/zeni/,24,0,0
+1643794432078,24,Zeni-0,301,Moved Permanently,Thread Group 1-20,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,24,0,0
+1643794432103,11102,Zeni-1,200,OK,Thread Group 1-20,text,true,,387890,141,30,30,https://cityfashion.mk/product-category/zeni/,10913,0,0
+1643794432841,11222,Zeni,200,OK,Thread Group 1-28,text,true,,388431,286,30,30,https://cityfashion.mk/product-category/zeni/,31,0,0
+1643794432841,31,Zeni-0,301,Moved Permanently,Thread Group 1-28,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,31,0,0
+1643794432872,11191,Zeni-1,200,OK,Thread Group 1-28,text,true,,388056,141,30,30,https://cityfashion.mk/product-category/zeni/,11083,0,0
+1643794432970,11976,Zeni,200,OK,Thread Group 1-7,text,true,,388424,286,30,30,https://cityfashion.mk/product-category/zeni/,26,0,0
+1643794432970,26,Zeni-0,301,Moved Permanently,Thread Group 1-7,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,26,0,0
+1643794432997,11949,Zeni-1,200,OK,Thread Group 1-7,text,true,,388049,141,30,30,https://cityfashion.mk/product-category/zeni/,11851,0,0
+1643794433212,12527,Zeni,200,OK,Thread Group 1-23,text,true,,388431,286,30,30,https://cityfashion.mk/product-category/zeni/,27,0,0
+1643794433212,27,Zeni-0,301,Moved Permanently,Thread Group 1-23,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,27,0,0
+1643794433239,12500,Zeni-1,200,OK,Thread Group 1-23,text,true,,388056,141,30,30,https://cityfashion.mk/product-category/zeni/,12407,0,0
+1643794433028,12847,Zeni,200,OK,Thread Group 1-3,text,true,,388431,286,30,30,https://cityfashion.mk/product-category/zeni/,25,0,0
+1643794433028,25,Zeni-0,301,Moved Permanently,Thread Group 1-3,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,25,0,0
+1643794433054,12821,Zeni-1,200,OK,Thread Group 1-3,text,true,,388056,141,30,30,https://cityfashion.mk/product-category/zeni/,12711,0,0
+1643794433651,12329,Zeni,200,OK,Thread Group 1-4,text,true,,388424,286,30,30,https://cityfashion.mk/product-category/zeni/,21,0,0
+1643794433651,21,Zeni-0,301,Moved Permanently,Thread Group 1-4,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,21,0,0
+1643794433672,12308,Zeni-1,200,OK,Thread Group 1-4,text,true,,388049,141,30,30,https://cityfashion.mk/product-category/zeni/,12191,0,0
+1643794433917,12361,Zeni,200,OK,Thread Group 1-5,text,true,,388431,286,30,30,https://cityfashion.mk/product-category/zeni/,20,0,0
+1643794433917,20,Zeni-0,301,Moved Permanently,Thread Group 1-5,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,20,0,0
+1643794433938,12340,Zeni-1,200,OK,Thread Group 1-5,text,true,,388056,141,30,30,https://cityfashion.mk/product-category/zeni/,12239,0,0
+1643794435572,11183,Zeni,200,OK,Thread Group 1-25,text,true,,388463,286,30,30,https://cityfashion.mk/product-category/zeni/,18,0,0
+1643794435572,18,Zeni-0,301,Moved Permanently,Thread Group 1-25,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,18,0,0
+1643794435590,11165,Zeni-1,200,OK,Thread Group 1-25,text,true,,388088,141,30,30,https://cityfashion.mk/product-category/zeni/,11072,0,0
+1643794435465,11490,Zeni,200,OK,Thread Group 1-14,text,true,,388431,286,30,30,https://cityfashion.mk/product-category/zeni/,29,0,0
+1643794435465,29,Zeni-0,301,Moved Permanently,Thread Group 1-14,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,29,0,0
+1643794435494,11461,Zeni-1,200,OK,Thread Group 1-14,text,true,,388056,141,30,30,https://cityfashion.mk/product-category/zeni/,11307,0,0
+1643794435757,11753,Zeni,200,OK,Thread Group 1-15,text,true,,388328,286,30,30,https://cityfashion.mk/product-category/zeni/,16,0,0
+1643794435757,16,Zeni-0,301,Moved Permanently,Thread Group 1-15,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,16,0,0
+1643794435773,11737,Zeni-1,200,OK,Thread Group 1-15,text,true,,387953,141,30,30,https://cityfashion.mk/product-category/zeni/,11608,0,0
+1643794436159,12015,Zeni,200,OK,Thread Group 1-21,text,true,,388439,286,30,30,https://cityfashion.mk/product-category/zeni/,24,0,0
+1643794436159,24,Zeni-0,301,Moved Permanently,Thread Group 1-21,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,24,0,0
+1643794436184,11990,Zeni-1,200,OK,Thread Group 1-21,text,true,,388064,141,30,30,https://cityfashion.mk/product-category/zeni/,11896,0,0
+1643794436232,12125,Zeni,200,OK,Thread Group 1-16,text,true,,388463,286,30,30,https://cityfashion.mk/product-category/zeni/,24,0,0
+1643794436232,24,Zeni-0,301,Moved Permanently,Thread Group 1-16,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,24,0,0
+1643794436256,12101,Zeni-1,200,OK,Thread Group 1-16,text,true,,388088,141,30,30,https://cityfashion.mk/product-category/zeni/,12011,0,0
+1643794436786,12471,Zeni,200,OK,Thread Group 1-24,text,true,,388431,286,30,30,https://cityfashion.mk/product-category/zeni/,22,0,0
+1643794436786,22,Zeni-0,301,Moved Permanently,Thread Group 1-24,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,22,0,0
+1643794436808,12449,Zeni-1,200,OK,Thread Group 1-24,text,true,,388056,141,30,30,https://cityfashion.mk/product-category/zeni/,12341,0,0
+1643794436834,12571,Zeni,200,OK,Thread Group 1-9,text,true,,388423,286,30,30,https://cityfashion.mk/product-category/zeni/,34,0,0
+1643794436834,34,Zeni-0,301,Moved Permanently,Thread Group 1-9,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,34,0,0
+1643794436868,12537,Zeni-1,200,OK,Thread Group 1-9,text,true,,388048,141,30,30,https://cityfashion.mk/product-category/zeni/,12377,0,0
+1643794437017,12485,Zeni,200,OK,Thread Group 1-13,text,true,,388415,286,30,30,https://cityfashion.mk/product-category/zeni/,21,0,0
+1643794437017,21,Zeni-0,301,Moved Permanently,Thread Group 1-13,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,21,0,0
+1643794437038,12464,Zeni-1,200,OK,Thread Group 1-13,text,true,,388040,141,30,30,https://cityfashion.mk/product-category/zeni/,12359,0,0
+1643794438763,11068,Zeni,200,OK,Thread Group 1-1,text,true,,388423,286,30,30,https://cityfashion.mk/product-category/zeni/,18,0,0
+1643794438763,18,Zeni-0,301,Moved Permanently,Thread Group 1-1,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,18,0,0
+1643794438781,11050,Zeni-1,200,OK,Thread Group 1-1,text,true,,388048,141,30,30,https://cityfashion.mk/product-category/zeni/,10855,0,0
+1643794436954,13001,Zeni,200,OK,Thread Group 1-10,text,true,,388423,286,30,30,https://cityfashion.mk/product-category/zeni/,26,0,0
+1643794436954,26,Zeni-0,301,Moved Permanently,Thread Group 1-10,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,26,0,0
+1643794436980,12975,Zeni-1,200,OK,Thread Group 1-10,text,true,,388048,141,30,30,https://cityfashion.mk/product-category/zeni/,12883,0,0
+1643794437268,13143,Zeni,200,OK,Thread Group 1-6,text,true,,388415,286,30,30,https://cityfashion.mk/product-category/zeni/,19,0,0
+1643794437268,19,Zeni-0,301,Moved Permanently,Thread Group 1-6,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,19,0,0
+1643794437287,13124,Zeni-1,200,OK,Thread Group 1-6,text,true,,388040,141,30,30,https://cityfashion.mk/product-category/zeni/,13000,0,0
+1643794439359,11417,Zeni,200,OK,Thread Group 1-2,text,true,,388415,286,30,30,https://cityfashion.mk/product-category/zeni/,20,0,0
+1643794439359,20,Zeni-0,301,Moved Permanently,Thread Group 1-2,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,20,0,0
+1643794439379,11397,Zeni-1,200,OK,Thread Group 1-2,text,true,,388040,141,30,30,https://cityfashion.mk/product-category/zeni/,11308,0,0
+1643794439749,11470,Novo,200,OK,Thread Group 1-17,text,true,,384138,252,30,30,https://cityfashion.mk/novo/,18,0,0
+1643794439749,19,Novo-0,301,Moved Permanently,Thread Group 1-17,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,18,0,0
+1643794439768,11451,Novo-1,200,OK,Thread Group 1-17,text,true,,383780,124,30,30,https://cityfashion.mk/novo/,11321,0,0
+1643794439657,11620,Zeni,200,OK,Thread Group 1-11,text,true,,388328,286,30,30,https://cityfashion.mk/product-category/zeni/,24,0,0
+1643794439657,24,Zeni-0,301,Moved Permanently,Thread Group 1-11,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,24,0,0
+1643794439681,11596,Zeni-1,200,OK,Thread Group 1-11,text,true,,387953,141,30,30,https://cityfashion.mk/product-category/zeni/,11458,0,0
+1643794439990,12089,Zeni,200,OK,Thread Group 1-18,text,true,,388344,286,30,30,https://cityfashion.mk/product-category/zeni/,12,0,0
+1643794439990,12,Zeni-0,301,Moved Permanently,Thread Group 1-18,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,12,0,0
+1643794440002,12077,Zeni-1,200,OK,Thread Group 1-18,text,true,,387969,141,30,30,https://cityfashion.mk/product-category/zeni/,11977,0,0
+1643794440431,12788,Zeni,200,OK,Thread Group 1-26,text,true,,388304,286,30,30,https://cityfashion.mk/product-category/zeni/,23,0,0
+1643794440431,23,Zeni-0,301,Moved Permanently,Thread Group 1-26,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,23,0,0
+1643794440454,12765,Zeni-1,200,OK,Thread Group 1-26,text,true,,387929,141,30,30,https://cityfashion.mk/product-category/zeni/,12612,0,0
+1643794440917,12370,Novo,200,OK,Thread Group 1-22,text,true,,384178,252,30,30,https://cityfashion.mk/novo/,25,0,0
+1643794440917,25,Novo-0,301,Moved Permanently,Thread Group 1-22,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,25,0,0
+1643794440942,12345,Novo-1,200,OK,Thread Group 1-22,text,true,,383820,124,30,30,https://cityfashion.mk/novo/,12183,0,0
+1643794440591,12742,Zeni,200,OK,Thread Group 1-8,text,true,,388400,286,30,30,https://cityfashion.mk/product-category/zeni/,23,0,0
+1643794440591,23,Zeni-0,301,Moved Permanently,Thread Group 1-8,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,23,0,0
+1643794440615,12718,Zeni-1,200,OK,Thread Group 1-8,text,true,,388025,141,30,30,https://cityfashion.mk/product-category/zeni/,12598,0,0
+1643794441454,12053,Novo,200,OK,Thread Group 1-29,text,true,,384145,252,30,30,https://cityfashion.mk/novo/,18,0,0
+1643794441454,18,Novo-0,301,Moved Permanently,Thread Group 1-29,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,18,0,0
+1643794441472,12035,Novo-1,200,OK,Thread Group 1-29,text,true,,383787,124,30,30,https://cityfashion.mk/novo/,11887,0,0
+1643794442325,12193,Novo,200,OK,Thread Group 1-19,text,true,,384145,252,30,30,https://cityfashion.mk/novo/,19,0,0
+1643794442325,19,Novo-0,301,Moved Permanently,Thread Group 1-19,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,19,0,0
+1643794442344,12174,Novo-1,200,OK,Thread Group 1-19,text,true,,383787,124,30,30,https://cityfashion.mk/novo/,12089,0,0
+1643794442580,12425,Novo,200,OK,Thread Group 1-30,text,true,,384145,252,30,30,https://cityfashion.mk/novo/,17,0,0
+1643794442580,17,Novo-0,301,Moved Permanently,Thread Group 1-30,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,17,0,0
+1643794442597,12408,Novo-1,200,OK,Thread Group 1-30,text,true,,383787,124,30,30,https://cityfashion.mk/novo/,12176,0,0
+1643794442808,12310,Novo,200,OK,Thread Group 1-27,text,true,,384185,252,30,30,https://cityfashion.mk/novo/,69,0,0
+1643794442808,69,Novo-0,301,Moved Permanently,Thread Group 1-27,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,69,0,0
+1643794442877,12241,Novo-1,200,OK,Thread Group 1-27,text,true,,383827,124,30,30,https://cityfashion.mk/novo/,12132,0,0
+1643794443081,12477,Novo,200,OK,Thread Group 1-12,text,true,,384153,252,30,30,https://cityfashion.mk/novo/,20,0,0
+1643794443081,21,Novo-0,301,Moved Permanently,Thread Group 1-12,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,20,0,0
+1643794443102,12456,Novo-1,200,OK,Thread Group 1-12,text,true,,383795,124,30,30,https://cityfashion.mk/novo/,12350,0,0
+1643794445744,10702,Novo,200,OK,Thread Group 1-23,text,true,,384129,252,30,30,https://cityfashion.mk/novo/,27,0,0
+1643794445744,27,Novo-0,301,Moved Permanently,Thread Group 1-23,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,27,0,0
+1643794445771,10675,Novo-1,200,OK,Thread Group 1-23,text,true,,383771,124,30,30,https://cityfashion.mk/novo/,10536,0,0
+1643794443206,13266,Novo,200,OK,Thread Group 1-20,text,true,,384002,252,30,30,https://cityfashion.mk/novo/,19,0,0
+1643794443206,19,Novo-0,301,Moved Permanently,Thread Group 1-20,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,19,0,0
+1643794443225,13247,Novo-1,200,OK,Thread Group 1-20,text,true,,383644,124,30,30,https://cityfashion.mk/novo/,13045,0,0
+1643794445875,10680,Novo,200,OK,Thread Group 1-3,text,true,,384145,252,30,30,https://cityfashion.mk/novo/,28,0,0
+1643794445875,29,Novo-0,301,Moved Permanently,Thread Group 1-3,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,28,0,0
+1643794445904,10651,Novo-1,200,OK,Thread Group 1-3,text,true,,383787,124,30,30,https://cityfashion.mk/novo/,10544,0,0
+1643794444947,11701,Novo,200,OK,Thread Group 1-7,text,true,,384146,252,30,30,https://cityfashion.mk/novo/,20,0,0
+1643794444947,20,Novo-0,301,Moved Permanently,Thread Group 1-7,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,20,0,0
+1643794444967,11681,Novo-1,200,OK,Thread Group 1-7,text,true,,383788,124,30,30,https://cityfashion.mk/novo/,11572,0,0
+1643794444064,13013,Novo,200,OK,Thread Group 1-28,text,true,,384137,252,30,30,https://cityfashion.mk/novo/,14,0,0
+1643794444064,14,Novo-0,301,Moved Permanently,Thread Group 1-28,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,14,0,0
+1643794444079,12998,Novo-1,200,OK,Thread Group 1-28,text,true,,383779,124,30,30,https://cityfashion.mk/novo/,12905,0,0
+1643794445980,11705,Novo,200,OK,Thread Group 1-4,text,true,,384145,252,30,30,https://cityfashion.mk/novo/,20,0,0
+1643794445980,20,Novo-0,301,Moved Permanently,Thread Group 1-4,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,20,0,0
+1643794446000,11685,Novo-1,200,OK,Thread Group 1-4,text,true,,383787,124,30,30,https://cityfashion.mk/novo/,11593,0,0
+1643794446278,11557,Novo,200,OK,Thread Group 1-5,text,true,,384137,252,30,30,https://cityfashion.mk/novo/,15,0,0
+1643794446278,15,Novo-0,301,Moved Permanently,Thread Group 1-5,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,15,0,0
+1643794446293,11542,Novo-1,200,OK,Thread Group 1-5,text,true,,383779,124,30,30,https://cityfashion.mk/novo/,11436,0,0
+1643794446754,11524,Novo,200,OK,Thread Group 1-25,text,true,,384145,252,30,30,https://cityfashion.mk/novo/,26,0,0
+1643794446754,27,Novo-0,301,Moved Permanently,Thread Group 1-25,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,26,0,0
+1643794446781,11497,Novo-1,200,OK,Thread Group 1-25,text,true,,383787,124,30,30,https://cityfashion.mk/novo/,11377,0,0
+1643794447509,11464,Novo,200,OK,Thread Group 1-15,text,true,,384082,252,30,30,https://cityfashion.mk/novo/,22,0,0
+1643794447509,22,Novo-0,301,Moved Permanently,Thread Group 1-15,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,22,0,0
+1643794447531,11442,Novo-1,200,OK,Thread Group 1-15,text,true,,383724,124,30,30,https://cityfashion.mk/novo/,11326,0,0
+1643794449404,10003,Novo,200,OK,Thread Group 1-9,text,true,,384137,252,30,30,https://cityfashion.mk/novo/,33,0,0
+1643794449404,33,Novo-0,301,Moved Permanently,Thread Group 1-9,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,33,0,0
+1643794449437,9970,Novo-1,200,OK,Thread Group 1-9,text,true,,383779,124,30,30,https://cityfashion.mk/novo/,9848,0,0
+1643794448174,11510,Novo,200,OK,Thread Group 1-21,text,true,,384145,252,30,30,https://cityfashion.mk/novo/,26,0,0
+1643794448174,26,Novo-0,301,Moved Permanently,Thread Group 1-21,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,26,0,0
+1643794448200,11484,Novo-1,200,OK,Thread Group 1-21,text,true,,383787,124,30,30,https://cityfashion.mk/novo/,11375,0,0
+1643794448357,11384,Novo,200,OK,Thread Group 1-16,text,true,,384137,252,30,30,https://cityfashion.mk/novo/,14,0,0
+1643794448357,14,Novo-0,301,Moved Permanently,Thread Group 1-16,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,14,0,0
+1643794448371,11370,Novo-1,200,OK,Thread Group 1-16,text,true,,383779,124,30,30,https://cityfashion.mk/novo/,11171,0,0
+1643794446954,12953,Novo,200,OK,Thread Group 1-14,text,true,,384153,252,30,30,https://cityfashion.mk/novo/,16,0,0
+1643794446954,16,Novo-0,301,Moved Permanently,Thread Group 1-14,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,16,0,0
+1643794446971,12936,Novo-1,200,OK,Thread Group 1-14,text,true,,383795,124,30,30,https://cityfashion.mk/novo/,12790,0,0
+1643794449256,10897,Novo,200,OK,Thread Group 1-24,text,true,,384153,252,30,30,https://cityfashion.mk/novo/,25,0,0
+1643794449256,25,Novo-0,301,Moved Permanently,Thread Group 1-24,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,25,0,0
+1643794449281,10872,Novo-1,200,OK,Thread Group 1-24,text,true,,383795,124,30,30,https://cityfashion.mk/novo/,10758,0,0
+1643794449501,10813,Novo,200,OK,Thread Group 1-13,text,true,,384145,252,30,30,https://cityfashion.mk/novo/,12,0,0
+1643794449501,12,Novo-0,301,Moved Permanently,Thread Group 1-13,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,12,0,0
+1643794449513,10801,Novo-1,200,OK,Thread Group 1-13,text,true,,383787,124,30,30,https://cityfashion.mk/novo/,10689,0,0
+1643794449955,11128,Novo,200,OK,Thread Group 1-10,text,true,,384153,252,30,30,https://cityfashion.mk/novo/,15,0,0
+1643794449955,15,Novo-0,301,Moved Permanently,Thread Group 1-10,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,15,0,0
+1643794449970,11113,Novo-1,200,OK,Thread Group 1-10,text,true,,383795,124,30,30,https://cityfashion.mk/novo/,11004,0,0
+1643794449831,11403,Novo,200,OK,Thread Group 1-1,text,true,,384145,252,30,30,https://cityfashion.mk/novo/,12,0,0
+1643794449831,12,Novo-0,301,Moved Permanently,Thread Group 1-1,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,12,0,0
+1643794449843,11391,Novo-1,200,OK,Thread Group 1-1,text,true,,383787,124,30,30,https://cityfashion.mk/novo/,11169,0,0
+1643794450411,11059,Novo,200,OK,Thread Group 1-6,text,true,,384185,252,30,30,https://cityfashion.mk/novo/,23,0,0
+1643794450411,23,Novo-0,301,Moved Permanently,Thread Group 1-6,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,23,0,0
+1643794450434,11036,Novo-1,200,OK,Thread Group 1-6,text,true,,383827,124,30,30,https://cityfashion.mk/novo/,10897,0,0
+1643794450776,12121,Novo,200,OK,Thread Group 1-2,text,true,,384153,252,30,30,https://cityfashion.mk/novo/,22,0,0
+1643794450776,22,Novo-0,301,Moved Permanently,Thread Group 1-2,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,22,0,0
+1643794450798,12099,Novo-1,200,OK,Thread Group 1-2,text,true,,383795,124,30,30,https://cityfashion.mk/novo/,12004,0,0
+1643794451219,12025,Mazi,200,OK,Thread Group 1-17,text,true,,392970,286,30,30,https://cityfashion.mk/product-category/mazi/,30,0,0
+1643794451219,30,Mazi-0,301,Moved Permanently,Thread Group 1-17,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,30,0,0
+1643794451250,11994,Mazi-1,200,OK,Thread Group 1-17,text,true,,392595,141,30,30,https://cityfashion.mk/product-category/mazi/,11810,0,0
+1643794451278,12061,Novo,200,OK,Thread Group 1-11,text,true,,384050,252,30,30,https://cityfashion.mk/novo/,13,0,0
+1643794451278,13,Novo-0,301,Moved Permanently,Thread Group 1-11,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,13,0,0
+1643794451291,12048,Novo-1,200,OK,Thread Group 1-11,text,true,,383692,124,30,30,https://cityfashion.mk/novo/,11837,0,0
+1643794452079,11469,Novo,200,OK,Thread Group 1-18,text,true,,384090,252,30,30,https://cityfashion.mk/novo/,22,0,0
+1643794452079,22,Novo-0,301,Moved Permanently,Thread Group 1-18,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,22,0,0
+1643794452101,11447,Novo-1,200,OK,Thread Group 1-18,text,true,,383732,124,30,30,https://cityfashion.mk/novo/,11343,0,0
+1643794453219,11794,Novo,200,OK,Thread Group 1-26,text,true,,384050,252,30,30,https://cityfashion.mk/novo/,44,0,0
+1643794453219,44,Novo-0,301,Moved Permanently,Thread Group 1-26,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,44,0,0
+1643794453263,11750,Novo-1,200,OK,Thread Group 1-26,text,true,,383692,124,30,30,https://cityfashion.mk/novo/,11639,0,0
+1643794453333,13221,Novo,200,OK,Thread Group 1-8,text,true,,384146,252,30,30,https://cityfashion.mk/novo/,23,0,0
+1643794453333,23,Novo-0,301,Moved Permanently,Thread Group 1-8,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,23,0,0
+1643794453356,13198,Novo-1,200,OK,Thread Group 1-8,text,true,,383788,124,30,30,https://cityfashion.mk/novo/,13092,0,0
+1643794453507,13798,Mazi,200,OK,Thread Group 1-29,text,true,,392970,286,30,30,https://cityfashion.mk/product-category/mazi/,24,0,0
+1643794453507,24,Mazi-0,301,Moved Permanently,Thread Group 1-29,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,24,0,0
+1643794453531,13774,Mazi-1,200,OK,Thread Group 1-29,text,true,,392595,141,30,30,https://cityfashion.mk/product-category/mazi/,13655,0,0
+1643794453288,14193,Mazi,200,OK,Thread Group 1-22,text,true,,392947,286,30,30,https://cityfashion.mk/product-category/mazi/,34,0,0
+1643794453288,34,Mazi-0,301,Moved Permanently,Thread Group 1-22,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,34,0,0
+1643794453322,14159,Mazi-1,200,OK,Thread Group 1-22,text,true,,392572,141,30,30,https://cityfashion.mk/product-category/mazi/,14040,0,0
+1643794454519,13290,Mazi,200,OK,Thread Group 1-19,text,true,,392962,286,30,30,https://cityfashion.mk/product-category/mazi/,27,0,0
+1643794454519,27,Mazi-0,301,Moved Permanently,Thread Group 1-19,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,27,0,0
+1643794454547,13262,Mazi-1,200,OK,Thread Group 1-19,text,true,,392587,141,30,30,https://cityfashion.mk/product-category/mazi/,13172,0,0
+1643794455118,13485,Mazi,200,OK,Thread Group 1-27,text,true,,392962,286,30,30,https://cityfashion.mk/product-category/mazi/,17,0,0
+1643794455118,17,Mazi-0,301,Moved Permanently,Thread Group 1-27,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,17,0,0
+1643794455135,13468,Mazi-1,200,OK,Thread Group 1-27,text,true,,392587,141,30,30,https://cityfashion.mk/product-category/mazi/,13366,0,0
+1643794455004,13771,Mazi,200,OK,Thread Group 1-30,text,true,,392955,286,30,30,https://cityfashion.mk/product-category/mazi/,34,0,0
+1643794455004,34,Mazi-0,301,Moved Permanently,Thread Group 1-30,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,34,0,0
+1643794455038,13737,Mazi-1,200,OK,Thread Group 1-30,text,true,,392580,141,30,30,https://cityfashion.mk/product-category/mazi/,13545,0,0
+1643794455558,13289,Mazi,200,OK,Thread Group 1-12,text,true,,392962,286,30,30,https://cityfashion.mk/product-category/mazi/,17,0,0
+1643794455558,17,Mazi-0,301,Moved Permanently,Thread Group 1-12,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,17,0,0
+1643794455575,13272,Mazi-1,200,OK,Thread Group 1-12,text,true,,392587,141,30,30,https://cityfashion.mk/product-category/mazi/,13155,0,0
+1643794456472,12627,Mazi,200,OK,Thread Group 1-20,text,true,,392828,286,30,30,https://cityfashion.mk/product-category/mazi/,25,0,0
+1643794456472,25,Mazi-0,301,Moved Permanently,Thread Group 1-20,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,25,0,0
+1643794456497,12602,Mazi-1,200,OK,Thread Group 1-20,text,true,,392453,141,30,30,https://cityfashion.mk/product-category/mazi/,12464,0,0
+1643794456446,13662,Mazi,200,OK,Thread Group 1-23,text,true,,392677,286,30,30,https://cityfashion.mk/product-category/mazi/,36,0,23
+1643794456446,36,Mazi-0,301,Moved Permanently,Thread Group 1-23,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,36,0,23
+1643794456482,13626,Mazi-1,200,OK,Thread Group 1-23,text,true,,392302,141,30,30,https://cityfashion.mk/product-category/mazi/,13525,0,66
+1643794456555,14047,Mazi,200,OK,Thread Group 1-3,text,true,,392701,286,30,30,https://cityfashion.mk/product-category/mazi/,35,0,18
+1643794456555,35,Mazi-0,301,Moved Permanently,Thread Group 1-3,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,35,0,18
+1643794456590,14012,Mazi-1,200,OK,Thread Group 1-3,text,true,,392326,141,30,30,https://cityfashion.mk/product-category/mazi/,13907,0,67
+1643794457076,14100,Mazi,200,OK,Thread Group 1-28,text,true,,392954,286,30,30,https://cityfashion.mk/product-category/mazi/,15,0,0
+1643794457076,15,Mazi-0,301,Moved Permanently,Thread Group 1-28,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,15,0,0
+1643794457091,14085,Mazi-1,200,OK,Thread Group 1-28,text,true,,392579,141,30,30,https://cityfashion.mk/product-category/mazi/,13990,0,0
+1643794456648,14861,Mazi,200,OK,Thread Group 1-7,text,true,,392716,286,30,30,https://cityfashion.mk/product-category/mazi/,25,0,12
+1643794456648,25,Mazi-0,301,Moved Permanently,Thread Group 1-7,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,25,0,12
+1643794456673,14836,Mazi-1,200,OK,Thread Group 1-7,text,true,,392341,141,30,30,https://cityfashion.mk/product-category/mazi/,14729,0,55
+1643794457686,14019,Mazi,200,OK,Thread Group 1-4,text,true,,392723,286,30,30,https://cityfashion.mk/product-category/mazi/,26,0,11
+1643794457686,26,Mazi-0,301,Moved Permanently,Thread Group 1-4,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,26,0,11
+1643794457712,13993,Mazi-1,200,OK,Thread Group 1-4,text,true,,392348,141,30,30,https://cityfashion.mk/product-category/mazi/,13889,0,66
+1643794457835,14652,Mazi,200,OK,Thread Group 1-5,text,true,,392739,286,30,30,https://cityfashion.mk/product-category/mazi/,35,0,18
+1643794457835,35,Mazi-0,301,Moved Permanently,Thread Group 1-5,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,35,0,18
+1643794457870,14617,Mazi-1,200,OK,Thread Group 1-5,text,true,,392364,141,30,30,https://cityfashion.mk/product-category/mazi/,14523,0,51
+1643794458278,14403,Mazi,200,OK,Thread Group 1-25,text,true,,392692,286,30,30,https://cityfashion.mk/product-category/mazi/,25,0,11
+1643794458278,25,Mazi-0,301,Moved Permanently,Thread Group 1-25,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,25,0,11
+1643794458303,14378,Mazi-1,200,OK,Thread Group 1-25,text,true,,392317,141,30,30,https://cityfashion.mk/product-category/mazi/,14259,0,58
+1643794458974,13864,Mazi,200,OK,Thread Group 1-15,text,true,,392693,286,30,30,https://cityfashion.mk/product-category/mazi/,27,0,13
+1643794458974,27,Mazi-0,301,Moved Permanently,Thread Group 1-15,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,27,0,13
+1643794459001,13837,Mazi-1,200,OK,Thread Group 1-15,text,true,,392318,141,30,30,https://cityfashion.mk/product-category/mazi/,13704,0,47
+1643794459407,13726,Mazi,200,OK,Thread Group 1-9,text,true,,392701,286,30,30,https://cityfashion.mk/product-category/mazi/,31,0,15
+1643794459407,31,Mazi-0,301,Moved Permanently,Thread Group 1-9,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,31,0,15
+1643794459438,13695,Mazi-1,200,OK,Thread Group 1-9,text,true,,392326,141,30,30,https://cityfashion.mk/product-category/mazi/,13596,0,47
+1643794459741,14280,Mazi,200,OK,Thread Group 1-16,text,true,,392693,286,30,30,https://cityfashion.mk/product-category/mazi/,27,0,14
+1643794459741,27,Mazi-0,301,Moved Permanently,Thread Group 1-16,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,27,0,14
+1643794459769,14252,Mazi-1,200,OK,Thread Group 1-16,text,true,,392318,141,30,30,https://cityfashion.mk/product-category/mazi/,14155,0,61
+1643794459684,14645,Mazi,200,OK,Thread Group 1-21,text,true,,392701,286,30,30,https://cityfashion.mk/product-category/mazi/,40,0,21
+1643794459684,40,Mazi-0,301,Moved Permanently,Thread Group 1-21,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,40,0,21
+1643794459724,14605,Mazi-1,200,OK,Thread Group 1-21,text,true,,392326,141,30,30,https://cityfashion.mk/product-category/mazi/,14497,0,51
+1643794459908,15268,Mazi,200,OK,Thread Group 1-14,text,true,,392701,286,30,30,https://cityfashion.mk/product-category/mazi/,25,0,11
+1643794459908,25,Mazi-0,301,Moved Permanently,Thread Group 1-14,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,25,0,11
+1643794459933,15243,Mazi-1,200,OK,Thread Group 1-14,text,true,,392326,141,30,30,https://cityfashion.mk/product-category/mazi/,15148,0,54
+1643794460153,15776,Mazi,200,OK,Thread Group 1-24,text,true,,392677,286,30,30,https://cityfashion.mk/product-category/mazi/,32,0,17
+1643794460153,32,Mazi-0,301,Moved Permanently,Thread Group 1-24,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,32,0,17
+1643794460186,15743,Mazi-1,200,OK,Thread Group 1-24,text,true,,392302,141,30,30,https://cityfashion.mk/product-category/mazi/,15628,0,73
+1643794460314,15709,Mazi,200,OK,Thread Group 1-13,text,true,,392962,286,30,30,https://cityfashion.mk/product-category/mazi/,15,0,0
+1643794460314,15,Mazi-0,301,Moved Permanently,Thread Group 1-13,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,15,0,0
+1643794460329,15694,Mazi-1,200,OK,Thread Group 1-13,text,true,,392587,141,30,30,https://cityfashion.mk/product-category/mazi/,15562,0,0
+1643794461082,15839,Mazi,200,OK,Thread Group 1-10,text,true,,392970,286,30,30,https://cityfashion.mk/product-category/mazi/,31,0,0
+1643794461082,31,Mazi-0,301,Moved Permanently,Thread Group 1-10,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,31,0,0
+1643794461113,15808,Mazi-1,200,OK,Thread Group 1-10,text,true,,392595,141,30,30,https://cityfashion.mk/product-category/mazi/,15689,0,0
+1643794461233,15725,Mazi,200,OK,Thread Group 1-1,text,true,,392677,286,30,30,https://cityfashion.mk/product-category/mazi/,44,0,26
+1643794461233,44,Mazi-0,301,Moved Permanently,Thread Group 1-1,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,44,0,26
+1643794461277,15681,Mazi-1,200,OK,Thread Group 1-1,text,true,,392302,141,30,30,https://cityfashion.mk/product-category/mazi/,15454,0,91
+1643794461469,15574,Mazi,200,OK,Thread Group 1-6,text,true,,392709,286,30,30,https://cityfashion.mk/product-category/mazi/,24,0,14
+1643794461469,24,Mazi-0,301,Moved Permanently,Thread Group 1-6,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,24,0,14
+1643794461493,15550,Mazi-1,200,OK,Thread Group 1-6,text,true,,392334,141,30,30,https://cityfashion.mk/product-category/mazi/,15441,0,47
+1643794463243,14574,Zeni,200,OK,Thread Group 1-17,text,true,,388463,286,30,30,https://cityfashion.mk/product-category/zeni/,20,0,0
+1643794463243,20,Zeni-0,301,Moved Permanently,Thread Group 1-17,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,20,0,0
+1643794463263,14554,Zeni-1,200,OK,Thread Group 1-17,text,true,,388088,141,30,30,https://cityfashion.mk/product-category/zeni/,14385,0,0
+1643794462896,14925,Mazi,200,OK,Thread Group 1-2,text,true,,392701,286,30,30,https://cityfashion.mk/product-category/mazi/,30,0,15
+1643794462896,30,Mazi-0,301,Moved Permanently,Thread Group 1-2,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,30,0,15
+1643794462926,14895,Mazi-1,200,OK,Thread Group 1-2,text,true,,392326,141,30,30,https://cityfashion.mk/product-category/mazi/,14786,0,52
+1643794463338,15233,Mazi,200,OK,Thread Group 1-11,text,true,,392670,286,30,30,https://cityfashion.mk/product-category/mazi/,29,0,13
+1643794463338,29,Mazi-0,301,Moved Permanently,Thread Group 1-11,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,29,0,13
+1643794463367,15204,Mazi-1,200,OK,Thread Group 1-11,text,true,,392295,141,30,30,https://cityfashion.mk/product-category/mazi/,15007,0,61
+1643794463547,15438,Mazi,200,OK,Thread Group 1-18,text,true,,392685,286,30,30,https://cityfashion.mk/product-category/mazi/,28,0,14
+1643794463547,28,Mazi-0,301,Moved Permanently,Thread Group 1-18,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,28,0,14
+1643794463575,15410,Mazi-1,200,OK,Thread Group 1-18,text,true,,392310,141,30,30,https://cityfashion.mk/product-category/mazi/,15292,0,57
+1643794465012,14769,Mazi,200,OK,Thread Group 1-26,text,true,,392685,286,30,30,https://cityfashion.mk/product-category/mazi/,32,0,17
+1643794465012,32,Mazi-0,301,Moved Permanently,Thread Group 1-26,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,32,0,17
+1643794465044,14737,Mazi-1,200,OK,Thread Group 1-26,text,true,,392310,141,30,30,https://cityfashion.mk/product-category/mazi/,14607,0,55
+1643794466554,13807,Mazi,200,OK,Thread Group 1-8,text,true,,392693,286,30,30,https://cityfashion.mk/product-category/mazi/,37,0,19
+1643794466554,37,Mazi-0,301,Moved Permanently,Thread Group 1-8,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,37,0,19
+1643794466592,13769,Mazi-1,200,OK,Thread Group 1-8,text,true,,392318,141,30,30,https://cityfashion.mk/product-category/mazi/,13664,0,54
+1643794467480,13408,Zeni,200,OK,Thread Group 1-22,text,true,,388184,286,30,30,https://cityfashion.mk/product-category/zeni/,31,0,14
+1643794467480,31,Zeni-0,301,Moved Permanently,Thread Group 1-22,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,31,0,14
+1643794467511,13377,Zeni-1,200,OK,Thread Group 1-22,text,true,,387809,141,30,30,https://cityfashion.mk/product-category/zeni/,13260,0,65
+1643794467304,13732,Zeni,200,OK,Thread Group 1-29,text,true,,388169,286,30,30,https://cityfashion.mk/product-category/zeni/,31,0,16
+1643794467304,31,Zeni-0,301,Moved Permanently,Thread Group 1-29,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,31,0,16
+1643794467335,13701,Zeni-1,200,OK,Thread Group 1-29,text,true,,387794,141,30,30,https://cityfashion.mk/product-category/zeni/,13598,0,67
+1643794468603,13038,Zeni,200,OK,Thread Group 1-27,text,true,,388170,286,30,30,https://cityfashion.mk/product-category/zeni/,32,0,15
+1643794468603,32,Zeni-0,301,Moved Permanently,Thread Group 1-27,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,32,0,15
+1643794468635,13006,Zeni-1,200,OK,Thread Group 1-27,text,true,,387795,141,30,30,https://cityfashion.mk/product-category/zeni/,12914,0,52
+1643794467808,14168,Zeni,200,OK,Thread Group 1-19,text,true,,388185,286,30,30,https://cityfashion.mk/product-category/zeni/,29,0,15
+1643794467808,29,Zeni-0,301,Moved Permanently,Thread Group 1-19,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,29,0,15
+1643794467837,14139,Zeni-1,200,OK,Thread Group 1-19,text,true,,387810,141,30,30,https://cityfashion.mk/product-category/zeni/,13880,0,58
+1643794468775,14495,Zeni,200,OK,Thread Group 1-30,text,true,,388147,286,30,30,https://cityfashion.mk/product-category/zeni/,30,0,15
+1643794468775,30,Zeni-0,301,Moved Permanently,Thread Group 1-30,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,30,0,15
+1643794468805,14465,Zeni-1,200,OK,Thread Group 1-30,text,true,,387772,141,30,30,https://cityfashion.mk/product-category/zeni/,14272,0,60
+1643794468848,15003,Zeni,200,OK,Thread Group 1-12,text,true,,388154,286,30,30,https://cityfashion.mk/product-category/zeni/,28,0,12
+1643794468848,28,Zeni-0,301,Moved Permanently,Thread Group 1-12,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,28,0,12
+1643794468876,14975,Zeni-1,200,OK,Thread Group 1-12,text,true,,387779,141,30,30,https://cityfashion.mk/product-category/zeni/,14861,0,77
+1643794469099,16114,Zeni,200,OK,Thread Group 1-20,text,true,,388154,286,30,30,https://cityfashion.mk/product-category/zeni/,25,0,12
+1643794469099,25,Zeni-0,301,Moved Permanently,Thread Group 1-20,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,25,0,12
+1643794469124,16089,Zeni-1,200,OK,Thread Group 1-20,text,true,,387779,141,30,30,https://cityfashion.mk/product-category/zeni/,15916,0,58
+1643794471176,14123,Zeni,200,OK,Thread Group 1-28,text,true,,388185,286,30,30,https://cityfashion.mk/product-category/zeni/,27,0,13
+1643794471176,27,Zeni-0,301,Moved Permanently,Thread Group 1-28,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,27,0,13
+1643794471203,14096,Zeni-1,200,OK,Thread Group 1-28,text,true,,387810,141,30,30,https://cityfashion.mk/product-category/zeni/,13952,0,49
+1643794470109,15217,Zeni,200,OK,Thread Group 1-23,text,true,,388431,286,30,30,https://cityfashion.mk/product-category/zeni/,19,0,0
+1643794470109,20,Zeni-0,301,Moved Permanently,Thread Group 1-23,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,19,0,0
+1643794470129,15197,Zeni-1,200,OK,Thread Group 1-23,text,true,,388056,141,30,30,https://cityfashion.mk/product-category/zeni/,15040,0,0
+1643794470602,15107,Zeni,200,OK,Thread Group 1-3,text,true,,388423,286,30,30,https://cityfashion.mk/product-category/zeni/,23,0,0
+1643794470602,23,Zeni-0,301,Moved Permanently,Thread Group 1-3,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,23,0,0
+1643794470625,15084,Zeni-1,200,OK,Thread Group 1-3,text,true,,388048,141,30,30,https://cityfashion.mk/product-category/zeni/,14977,0,0
+1643794471510,15225,Zeni,200,OK,Thread Group 1-7,text,true,,388400,286,30,30,https://cityfashion.mk/product-category/zeni/,17,0,0
+1643794471510,17,Zeni-0,301,Moved Permanently,Thread Group 1-7,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,17,0,0
+1643794471527,15208,Zeni-1,200,OK,Thread Group 1-7,text,true,,388025,141,30,30,https://cityfashion.mk/product-category/zeni/,15101,0,0
+1643794472487,14702,Zeni,200,OK,Thread Group 1-5,text,true,,388407,286,30,30,https://cityfashion.mk/product-category/zeni/,22,0,0
+1643794472487,22,Zeni-0,301,Moved Permanently,Thread Group 1-5,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,22,0,0
+1643794472509,14680,Zeni-1,200,OK,Thread Group 1-5,text,true,,388032,141,30,30,https://cityfashion.mk/product-category/zeni/,14583,0,0
+1643794471705,15651,Zeni,200,OK,Thread Group 1-4,text,true,,388392,286,30,30,https://cityfashion.mk/product-category/zeni/,25,0,0
+1643794471705,25,Zeni-0,301,Moved Permanently,Thread Group 1-4,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,25,0,0
+1643794471730,15626,Zeni-1,200,OK,Thread Group 1-4,text,true,,388017,141,30,30,https://cityfashion.mk/product-category/zeni/,15531,0,0
+1643794472838,14792,Zeni,200,OK,Thread Group 1-15,text,true,,388431,286,30,30,https://cityfashion.mk/product-category/zeni/,12,0,0
+1643794472838,13,Zeni-0,301,Moved Permanently,Thread Group 1-15,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,12,0,0
+1643794472851,14779,Zeni-1,200,OK,Thread Group 1-15,text,true,,388056,141,30,30,https://cityfashion.mk/product-category/zeni/,14657,0,0
+1643794472682,15046,Zeni,200,OK,Thread Group 1-25,text,true,,388424,286,30,30,https://cityfashion.mk/product-category/zeni/,13,0,0
+1643794472682,13,Zeni-0,301,Moved Permanently,Thread Group 1-25,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,13,0,0
+1643794472695,15033,Zeni-1,200,OK,Thread Group 1-25,text,true,,388049,141,30,30,https://cityfashion.mk/product-category/zeni/,14909,0,0
+1643794473134,15269,Zeni,200,OK,Thread Group 1-9,text,true,,388431,286,30,30,https://cityfashion.mk/product-category/zeni/,13,0,0
+1643794473134,13,Zeni-0,301,Moved Permanently,Thread Group 1-9,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,13,0,0
+1643794473147,15256,Zeni-1,200,OK,Thread Group 1-9,text,true,,388056,141,30,30,https://cityfashion.mk/product-category/zeni/,15156,0,0
+1643794474021,14798,Zeni,200,OK,Thread Group 1-16,text,true,,388423,286,30,30,https://cityfashion.mk/product-category/zeni/,26,0,0
+1643794474021,26,Zeni-0,301,Moved Permanently,Thread Group 1-16,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,26,0,0
+1643794474047,14772,Zeni-1,200,OK,Thread Group 1-16,text,true,,388048,141,30,30,https://cityfashion.mk/product-category/zeni/,14640,0,0
+1643794474329,14997,Zeni,200,OK,Thread Group 1-21,text,true,,388431,286,30,30,https://cityfashion.mk/product-category/zeni/,13,0,0
+1643794474329,13,Zeni-0,301,Moved Permanently,Thread Group 1-21,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,13,0,0
+1643794474342,14984,Zeni-1,200,OK,Thread Group 1-21,text,true,,388056,141,30,30,https://cityfashion.mk/product-category/zeni/,14893,0,0
+1643794475176,15609,Zeni,200,OK,Thread Group 1-14,text,true,,388392,286,30,30,https://cityfashion.mk/product-category/zeni/,22,0,0
+1643794475176,22,Zeni-0,301,Moved Permanently,Thread Group 1-14,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,22,0,0
+1643794475198,15587,Zeni-1,200,OK,Thread Group 1-14,text,true,,388017,141,30,30,https://cityfashion.mk/product-category/zeni/,15455,0,0
+1643794475929,14927,Zeni,200,OK,Thread Group 1-24,text,true,,388423,286,30,30,https://cityfashion.mk/product-category/zeni/,30,0,0
+1643794475929,30,Zeni-0,301,Moved Permanently,Thread Group 1-24,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,30,0,0
+1643794475959,14897,Zeni-1,200,OK,Thread Group 1-24,text,true,,388048,141,30,30,https://cityfashion.mk/product-category/zeni/,14758,0,0
+1643794476023,15406,Zeni,200,OK,Thread Group 1-13,text,true,,388169,286,30,30,https://cityfashion.mk/product-category/zeni/,26,0,14
+1643794476023,26,Zeni-0,301,Moved Permanently,Thread Group 1-13,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,26,0,14
+1643794476049,15380,Zeni-1,200,OK,Thread Group 1-13,text,true,,387794,141,30,30,https://cityfashion.mk/product-category/zeni/,15283,0,50
+1643794476958,14909,Zeni,200,OK,Thread Group 1-1,text,true,,388273,286,30,30,https://cityfashion.mk/product-category/zeni/,26,0,0
+1643794476958,26,Zeni-0,301,Moved Permanently,Thread Group 1-1,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,26,0,0
+1643794476984,14883,Zeni-1,200,OK,Thread Group 1-1,text,true,,387898,141,30,30,https://cityfashion.mk/product-category/zeni/,14751,0,0
+1643794476922,15432,Zeni,200,OK,Thread Group 1-10,text,true,,388169,286,30,30,https://cityfashion.mk/product-category/zeni/,33,0,15
+1643794476922,33,Zeni-0,301,Moved Permanently,Thread Group 1-10,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,33,0,15
+1643794476955,15399,Zeni-1,200,OK,Thread Group 1-10,text,true,,387794,141,30,30,https://cityfashion.mk/product-category/zeni/,15295,0,73
+1643794477043,15396,Zeni,200,OK,Thread Group 1-6,text,true,,388400,286,30,30,https://cityfashion.mk/product-category/zeni/,25,0,0
+1643794477043,25,Zeni-0,301,Moved Permanently,Thread Group 1-6,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,25,0,0
+1643794477068,15371,Zeni-1,200,OK,Thread Group 1-6,text,true,,388025,141,30,30,https://cityfashion.mk/product-category/zeni/,15266,0,0
+1643794477821,15124,Zeni,200,OK,Thread Group 1-2,text,true,,388431,286,30,30,https://cityfashion.mk/product-category/zeni/,26,0,0
+1643794477821,26,Zeni-0,301,Moved Permanently,Thread Group 1-2,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,26,0,0
+1643794477847,15098,Zeni-1,200,OK,Thread Group 1-2,text,true,,388056,141,30,30,https://cityfashion.mk/product-category/zeni/,15000,0,0
+1643794477817,15368,Novo,200,OK,Thread Group 1-17,text,true,,383922,252,30,30,https://cityfashion.mk/novo/,30,0,16
+1643794477817,30,Novo-0,301,Moved Permanently,Thread Group 1-17,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,30,0,16
+1643794477847,15338,Novo-1,200,OK,Thread Group 1-17,text,true,,383564,124,30,30,https://cityfashion.mk/novo/,15248,0,65
+1643794478571,15109,Zeni,200,OK,Thread Group 1-11,text,true,,388273,286,30,30,https://cityfashion.mk/product-category/zeni/,26,0,0
+1643794478571,27,Zeni-0,301,Moved Permanently,Thread Group 1-11,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,26,0,0
+1643794478598,15082,Zeni-1,200,OK,Thread Group 1-11,text,true,,387898,141,30,30,https://cityfashion.mk/product-category/zeni/,14918,0,0
+1643794479782,13978,Zeni,200,OK,Thread Group 1-26,text,true,,388297,286,30,30,https://cityfashion.mk/product-category/zeni/,22,0,0
+1643794479782,22,Zeni-0,301,Moved Permanently,Thread Group 1-26,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,22,0,0
+1643794479804,13956,Zeni-1,200,OK,Thread Group 1-26,text,true,,387922,141,30,30,https://cityfashion.mk/product-category/zeni/,13835,0,0
+1643794478985,15023,Zeni,200,OK,Thread Group 1-18,text,true,,388360,286,30,30,https://cityfashion.mk/product-category/zeni/,18,0,0
+1643794478985,19,Zeni-0,301,Moved Permanently,Thread Group 1-18,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,18,0,0
+1643794479004,15004,Zeni-1,200,OK,Thread Group 1-18,text,true,,387985,141,30,30,https://cityfashion.mk/product-category/zeni/,14838,0,0
+1643794480888,13939,Novo,200,OK,Thread Group 1-22,text,true,,384081,252,30,30,https://cityfashion.mk/novo/,28,0,0
+1643794480888,28,Novo-0,301,Moved Permanently,Thread Group 1-22,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,28,0,0
+1643794480916,13911,Novo-1,200,OK,Thread Group 1-22,text,true,,383723,124,30,30,https://cityfashion.mk/novo/,13809,0,0
+1643794480361,14658,Zeni,200,OK,Thread Group 1-8,text,true,,388431,286,30,30,https://cityfashion.mk/product-category/zeni/,26,0,0
+1643794480361,26,Zeni-0,301,Moved Permanently,Thread Group 1-8,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,26,0,0
+1643794480387,14632,Zeni-1,200,OK,Thread Group 1-8,text,true,,388056,141,30,30,https://cityfashion.mk/product-category/zeni/,14554,0,0
+1643794481037,14208,Novo,200,OK,Thread Group 1-29,text,true,,384114,252,30,30,https://cityfashion.mk/novo/,20,0,0
+1643794481037,20,Novo-0,301,Moved Permanently,Thread Group 1-29,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,20,0,0
+1643794481057,14188,Novo-1,200,OK,Thread Group 1-29,text,true,,383756,124,30,30,https://cityfashion.mk/novo/,14078,0,0
+1643794481641,13933,Novo,200,OK,Thread Group 1-27,text,true,,384153,252,30,30,https://cityfashion.mk/novo/,25,0,0
+1643794481641,25,Novo-0,301,Moved Permanently,Thread Group 1-27,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,25,0,0
+1643794481666,13908,Novo-1,200,OK,Thread Group 1-27,text,true,,383795,124,30,30,https://cityfashion.mk/novo/,13818,0,0
+1643794481976,14061,Novo,200,OK,Thread Group 1-19,text,true,,384081,252,30,30,https://cityfashion.mk/novo/,18,0,0
+1643794481976,18,Novo-0,301,Moved Permanently,Thread Group 1-19,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,18,0,0
+1643794481994,14043,Novo-1,200,OK,Thread Group 1-19,text,true,,383723,124,30,30,https://cityfashion.mk/novo/,13815,0,0
+1643794483270,13112,Novo,200,OK,Thread Group 1-30,text,true,,383970,252,30,30,https://cityfashion.mk/novo/,15,0,0
+1643794483270,15,Novo-0,301,Moved Permanently,Thread Group 1-30,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,15,0,0
+1643794483285,13097,Novo-1,200,OK,Thread Group 1-30,text,true,,383612,124,30,30,https://cityfashion.mk/novo/,12948,0,0
+1643794483851,12915,Novo,200,OK,Thread Group 1-12,text,true,,384090,252,30,30,https://cityfashion.mk/novo/,25,0,0
+1643794483851,25,Novo-0,301,Moved Permanently,Thread Group 1-12,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,25,0,0
+1643794483876,12890,Novo-1,200,OK,Thread Group 1-12,text,true,,383732,124,30,30,https://cityfashion.mk/novo/,12759,0,0
+1643794485213,11584,Novo,200,OK,Thread Group 1-20,text,true,,384018,252,30,30,https://cityfashion.mk/novo/,27,0,0
+1643794485213,28,Novo-0,301,Moved Permanently,Thread Group 1-20,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,27,0,0
+1643794485241,11556,Novo-1,200,OK,Thread Group 1-20,text,true,,383660,124,30,30,https://cityfashion.mk/novo/,11397,0,0
+1643794485326,12780,Novo,200,OK,Thread Group 1-23,text,true,,384145,252,30,30,https://cityfashion.mk/novo/,16,0,0
+1643794485326,16,Novo-0,301,Moved Permanently,Thread Group 1-23,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,16,0,0
+1643794485342,12764,Novo-1,200,OK,Thread Group 1-23,text,true,,383787,124,30,30,https://cityfashion.mk/novo/,12648,0,0
+1643794485299,13088,Novo,200,OK,Thread Group 1-28,text,true,,384090,252,30,30,https://cityfashion.mk/novo/,16,0,0
+1643794485299,16,Novo-0,301,Moved Permanently,Thread Group 1-28,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,16,0,0
+1643794485315,13072,Novo-1,200,OK,Thread Group 1-28,text,true,,383732,124,30,30,https://cityfashion.mk/novo/,12961,0,0
+1643794485709,13035,Novo,200,OK,Thread Group 1-3,text,true,,384145,252,30,30,https://cityfashion.mk/novo/,24,0,0
+1643794485709,24,Novo-0,301,Moved Permanently,Thread Group 1-3,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,24,0,0
+1643794485733,13011,Novo-1,200,OK,Thread Group 1-3,text,true,,383787,124,30,30,https://cityfashion.mk/novo/,12901,0,0
+1643794487357,11632,Novo,200,OK,Thread Group 1-4,text,true,,384137,252,30,30,https://cityfashion.mk/novo/,28,0,0
+1643794487357,28,Novo-0,301,Moved Permanently,Thread Group 1-4,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,28,0,0
+1643794487385,11604,Novo-1,200,OK,Thread Group 1-4,text,true,,383779,124,30,30,https://cityfashion.mk/novo/,11513,0,0
+1643794486736,12354,Novo,200,OK,Thread Group 1-7,text,true,,384138,252,30,30,https://cityfashion.mk/novo/,27,0,0
+1643794486736,27,Novo-0,301,Moved Permanently,Thread Group 1-7,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,27,0,0
+1643794486763,12327,Novo-1,200,OK,Thread Group 1-7,text,true,,383780,124,30,30,https://cityfashion.mk/novo/,12223,0,0
+1643794487189,12096,Novo,200,OK,Thread Group 1-5,text,true,,384153,252,30,30,https://cityfashion.mk/novo/,34,0,0
+1643794487189,34,Novo-0,301,Moved Permanently,Thread Group 1-5,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,34,0,0
+1643794487223,12062,Novo-1,200,OK,Thread Group 1-5,text,true,,383795,124,30,30,https://cityfashion.mk/novo/,11972,0,0
+1643794487728,11735,Novo,200,OK,Thread Group 1-25,text,true,,384145,252,30,30,https://cityfashion.mk/novo/,14,0,0
+1643794487728,14,Novo-0,301,Moved Permanently,Thread Group 1-25,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,14,0,0
+1643794487742,11721,Novo-1,200,OK,Thread Group 1-25,text,true,,383787,124,30,30,https://cityfashion.mk/novo/,11604,0,0
+1643794487631,11932,Novo,200,OK,Thread Group 1-15,text,true,,384145,252,30,30,https://cityfashion.mk/novo/,20,0,0
+1643794487631,20,Novo-0,301,Moved Permanently,Thread Group 1-15,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,20,0,0
+1643794487651,11912,Novo-1,200,OK,Thread Group 1-15,text,true,,383787,124,30,30,https://cityfashion.mk/novo/,11804,0,0
+1643794488403,11540,Novo,200,OK,Thread Group 1-9,text,true,,384145,252,30,30,https://cityfashion.mk/novo/,23,0,0
+1643794488403,23,Novo-0,301,Moved Permanently,Thread Group 1-9,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,23,0,0
+1643794488426,11517,Novo-1,200,OK,Thread Group 1-9,text,true,,383787,124,30,30,https://cityfashion.mk/novo/,11273,0,0
+1643794488820,11346,Novo,200,OK,Thread Group 1-16,text,true,,384145,252,30,30,https://cityfashion.mk/novo/,14,0,0
+1643794488820,14,Novo-0,301,Moved Permanently,Thread Group 1-16,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,14,0,0
+1643794488834,11332,Novo-1,200,OK,Thread Group 1-16,text,true,,383787,124,30,30,https://cityfashion.mk/novo/,11227,0,0
+1643794489326,11847,Novo,200,OK,Thread Group 1-21,text,true,,384153,252,30,30,https://cityfashion.mk/novo/,31,0,0
+1643794489326,31,Novo-0,301,Moved Permanently,Thread Group 1-21,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,31,0,0
+1643794489357,11816,Novo-1,200,OK,Thread Group 1-21,text,true,,383795,124,30,30,https://cityfashion.mk/novo/,11719,0,0
+1643794490856,11331,Novo,200,OK,Thread Group 1-24,text,true,,384129,252,30,30,https://cityfashion.mk/novo/,21,0,0
+1643794490856,21,Novo-0,301,Moved Permanently,Thread Group 1-24,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,21,0,0
+1643794490878,11309,Novo-1,200,OK,Thread Group 1-24,text,true,,383771,124,30,30,https://cityfashion.mk/novo/,11198,0,0
+1643794490786,11549,Novo,200,OK,Thread Group 1-14,text,true,,384145,252,30,30,https://cityfashion.mk/novo/,27,0,0
+1643794490786,27,Novo-0,301,Moved Permanently,Thread Group 1-14,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,27,0,0
+1643794490813,11522,Novo-1,200,OK,Thread Group 1-14,text,true,,383787,124,30,30,https://cityfashion.mk/novo/,11427,0,0
+1643794491429,11241,Novo,200,OK,Thread Group 1-13,text,true,,384114,252,30,30,https://cityfashion.mk/novo/,17,0,0
+1643794491429,17,Novo-0,301,Moved Permanently,Thread Group 1-13,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,17,0,0
+1643794491447,11223,Novo-1,200,OK,Thread Group 1-13,text,true,,383756,124,30,30,https://cityfashion.mk/novo/,11121,0,0
+1643794492354,10482,Novo,200,OK,Thread Group 1-10,text,true,,384145,252,30,30,https://cityfashion.mk/novo/,29,0,0
+1643794492354,29,Novo-0,301,Moved Permanently,Thread Group 1-10,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,29,0,0
+1643794492383,10453,Novo-1,200,OK,Thread Group 1-10,text,true,,383787,124,30,30,https://cityfashion.mk/novo/,10321,0,0
+1643794491868,11003,Novo,200,OK,Thread Group 1-1,text,true,,384019,252,30,30,https://cityfashion.mk/novo/,13,0,0
+1643794491868,13,Novo-0,301,Moved Permanently,Thread Group 1-1,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,13,0,0
+1643794491881,10990,Novo-1,200,OK,Thread Group 1-1,text,true,,383661,124,30,30,https://cityfashion.mk/novo/,10799,0,0
+1643794492439,10528,Novo,200,OK,Thread Group 1-6,text,true,,384145,252,30,30,https://cityfashion.mk/novo/,17,0,0
+1643794492439,17,Novo-0,301,Moved Permanently,Thread Group 1-6,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,17,0,0
+1643794492456,10511,Novo-1,200,OK,Thread Group 1-6,text,true,,383787,124,30,30,https://cityfashion.mk/novo/,10344,0,0
+1643794492945,11062,Novo,200,OK,Thread Group 1-2,text,true,,384145,252,30,30,https://cityfashion.mk/novo/,26,0,0
+1643794492945,26,Novo-0,301,Moved Permanently,Thread Group 1-2,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,26,0,0
+1643794492971,11036,Novo-1,200,OK,Thread Group 1-2,text,true,,383787,124,30,30,https://cityfashion.mk/novo/,10948,0,0
+1643794493185,11845,Mazi,200,OK,Thread Group 1-17,text,true,,392946,286,30,30,https://cityfashion.mk/product-category/mazi/,25,0,0
+1643794493185,25,Mazi-0,301,Moved Permanently,Thread Group 1-17,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,25,0,0
+1643794493211,11819,Mazi-1,200,OK,Thread Group 1-17,text,true,,392571,141,30,30,https://cityfashion.mk/product-category/mazi/,11723,0,0
+1643794493760,11905,Novo,200,OK,Thread Group 1-26,text,true,,384105,252,30,30,https://cityfashion.mk/novo/,22,0,0
+1643794493760,22,Novo-0,301,Moved Permanently,Thread Group 1-26,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,22,0,0
+1643794493782,11883,Novo-1,200,OK,Thread Group 1-26,text,true,,383747,124,30,30,https://cityfashion.mk/novo/,11787,0,0
+1643794493681,12131,Novo,200,OK,Thread Group 1-11,text,true,,384026,252,30,30,https://cityfashion.mk/novo/,32,0,0
+1643794493681,32,Novo-0,301,Moved Permanently,Thread Group 1-11,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,32,0,0
+1643794493713,12099,Novo-1,200,OK,Thread Group 1-11,text,true,,383668,124,30,30,https://cityfashion.mk/novo/,11960,0,0
+1643794494008,12156,Novo,200,OK,Thread Group 1-18,text,true,,384114,252,30,30,https://cityfashion.mk/novo/,23,0,0
+1643794494008,23,Novo-0,301,Moved Permanently,Thread Group 1-18,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,23,0,0
+1643794494031,12133,Novo-1,200,OK,Thread Group 1-18,text,true,,383756,124,30,30,https://cityfashion.mk/novo/,11960,0,0
+1643794495019,11343,Novo,200,OK,Thread Group 1-8,text,true,,384145,252,30,30,https://cityfashion.mk/novo/,22,0,0
+1643794495019,22,Novo-0,301,Moved Permanently,Thread Group 1-8,text,true,,358,128,30,30,http://www.cityfashion.mk/novo/,22,0,0
+1643794495041,11321,Novo-1,200,OK,Thread Group 1-8,text,true,,383787,124,30,30,https://cityfashion.mk/novo/,11222,0,0
+1643794494827,11677,Mazi,200,OK,Thread Group 1-22,text,true,,392931,286,30,30,https://cityfashion.mk/product-category/mazi/,24,0,0
+1643794494827,24,Mazi-0,301,Moved Permanently,Thread Group 1-22,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,24,0,0
+1643794494851,11653,Mazi-1,200,OK,Thread Group 1-22,text,true,,392556,141,30,30,https://cityfashion.mk/product-category/mazi/,11525,0,0
+1643794495245,11279,Mazi,200,OK,Thread Group 1-29,text,true,,392962,286,30,30,https://cityfashion.mk/product-category/mazi/,27,0,0
+1643794495245,27,Mazi-0,301,Moved Permanently,Thread Group 1-29,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,27,0,0
+1643794495273,11251,Mazi-1,200,OK,Thread Group 1-29,text,true,,392587,141,30,30,https://cityfashion.mk/product-category/mazi/,11124,0,0
+1643794495574,12156,Mazi,200,OK,Thread Group 1-27,text,true,,392954,286,30,30,https://cityfashion.mk/product-category/mazi/,24,0,0
+1643794495574,24,Mazi-0,301,Moved Permanently,Thread Group 1-27,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,24,0,0
+1643794495598,12132,Mazi-1,200,OK,Thread Group 1-27,text,true,,392579,141,30,30,https://cityfashion.mk/product-category/mazi/,12026,0,0
+1643794496382,12411,Mazi,200,OK,Thread Group 1-30,text,true,,392820,286,30,30,https://cityfashion.mk/product-category/mazi/,21,0,0
+1643794496382,21,Mazi-0,301,Moved Permanently,Thread Group 1-30,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,21,0,0
+1643794496403,12390,Mazi-1,200,OK,Thread Group 1-30,text,true,,392445,141,30,30,https://cityfashion.mk/product-category/mazi/,12251,0,0
+1643794496037,12964,Mazi,200,OK,Thread Group 1-19,text,true,,392859,286,30,30,https://cityfashion.mk/product-category/mazi/,29,0,0
+1643794496037,29,Mazi-0,301,Moved Permanently,Thread Group 1-19,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,29,0,0
+1643794496066,12935,Mazi-1,200,OK,Thread Group 1-19,text,true,,392484,141,30,30,https://cityfashion.mk/product-category/mazi/,12775,0,0
+1643794496767,12349,Mazi,200,OK,Thread Group 1-12,text,true,,392875,286,30,30,https://cityfashion.mk/product-category/mazi/,27,0,0
+1643794496767,27,Mazi-0,301,Moved Permanently,Thread Group 1-12,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,27,0,0
+1643794496794,12322,Mazi-1,200,OK,Thread Group 1-12,text,true,,392500,141,30,30,https://cityfashion.mk/product-category/mazi/,12210,0,0
+1643794498387,11253,Mazi,200,OK,Thread Group 1-28,text,true,,392954,286,30,30,https://cityfashion.mk/product-category/mazi/,14,0,0
+1643794498387,15,Mazi-0,301,Moved Permanently,Thread Group 1-28,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,14,0,0
+1643794498402,11238,Mazi-1,200,OK,Thread Group 1-28,text,true,,392579,141,30,30,https://cityfashion.mk/product-category/mazi/,11140,0,0
+1643794496797,13324,Mazi,200,OK,Thread Group 1-20,text,true,,392851,286,30,30,https://cityfashion.mk/product-category/mazi/,25,0,0
+1643794496797,25,Mazi-0,301,Moved Permanently,Thread Group 1-20,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,25,0,0
+1643794496822,13299,Mazi-1,200,OK,Thread Group 1-20,text,true,,392476,141,30,30,https://cityfashion.mk/product-category/mazi/,13111,0,0
+1643794498106,12087,Mazi,200,OK,Thread Group 1-23,text,true,,392962,286,30,30,https://cityfashion.mk/product-category/mazi/,12,0,0
+1643794498106,12,Mazi-0,301,Moved Permanently,Thread Group 1-23,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,12,0,0
+1643794498118,12075,Mazi-1,200,OK,Thread Group 1-23,text,true,,392587,141,30,30,https://cityfashion.mk/product-category/mazi/,11947,0,0
+1643794498744,11767,Mazi,200,OK,Thread Group 1-3,text,true,,392970,286,30,30,https://cityfashion.mk/product-category/mazi/,20,0,0
+1643794498744,21,Mazi-0,301,Moved Permanently,Thread Group 1-3,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,20,0,0
+1643794498765,11746,Mazi-1,200,OK,Thread Group 1-3,text,true,,392595,141,30,30,https://cityfashion.mk/product-category/mazi/,11647,0,0
+1643794499090,12603,Mazi,200,OK,Thread Group 1-7,text,true,,392955,286,30,30,https://cityfashion.mk/product-category/mazi/,17,0,0
+1643794499090,17,Mazi-0,301,Moved Permanently,Thread Group 1-7,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,17,0,0
+1643794499107,12586,Mazi-1,200,OK,Thread Group 1-7,text,true,,392580,141,30,30,https://cityfashion.mk/product-category/mazi/,12471,0,0
+1643794499285,13116,Mazi,200,OK,Thread Group 1-5,text,true,,392962,286,30,30,https://cityfashion.mk/product-category/mazi/,28,0,0
+1643794499285,28,Mazi-0,301,Moved Permanently,Thread Group 1-5,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,28,0,0
+1643794499313,13088,Mazi-1,200,OK,Thread Group 1-5,text,true,,392587,141,30,30,https://cityfashion.mk/product-category/mazi/,12978,0,0
+1643794499563,12897,Mazi,200,OK,Thread Group 1-15,text,true,,392938,286,30,30,https://cityfashion.mk/product-category/mazi/,11,0,0
+1643794499563,11,Mazi-0,301,Moved Permanently,Thread Group 1-15,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,11,0,0
+1643794499574,12886,Mazi-1,200,OK,Thread Group 1-15,text,true,,392563,141,30,30,https://cityfashion.mk/product-category/mazi/,12752,0,0
+1643794499464,13141,Mazi,200,OK,Thread Group 1-25,text,true,,392947,286,30,30,https://cityfashion.mk/product-category/mazi/,27,0,0
+1643794499464,27,Mazi-0,301,Moved Permanently,Thread Group 1-25,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,27,0,0
+1643794499491,13114,Mazi-1,200,OK,Thread Group 1-25,text,true,,392572,141,30,30,https://cityfashion.mk/product-category/mazi/,12984,0,0
+1643794498990,13659,Mazi,200,OK,Thread Group 1-4,text,true,,392962,286,30,30,https://cityfashion.mk/product-category/mazi/,25,0,0
+1643794498990,25,Mazi-0,301,Moved Permanently,Thread Group 1-4,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,25,0,0
+1643794499015,13634,Mazi-1,200,OK,Thread Group 1-4,text,true,,392587,141,30,30,https://cityfashion.mk/product-category/mazi/,13516,0,0
+1643794499944,12939,Mazi,200,OK,Thread Group 1-9,text,true,,392970,286,30,30,https://cityfashion.mk/product-category/mazi/,23,0,0
+1643794499944,23,Mazi-0,301,Moved Permanently,Thread Group 1-9,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,23,0,0
+1643794499967,12916,Mazi-1,200,OK,Thread Group 1-9,text,true,,392595,141,30,30,https://cityfashion.mk/product-category/mazi/,12759,0,0
+1643794500173,12987,Mazi,200,OK,Thread Group 1-16,text,true,,392970,286,30,30,https://cityfashion.mk/product-category/mazi/,26,0,0
+1643794500173,26,Mazi-0,301,Moved Permanently,Thread Group 1-16,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,26,0,0
+1643794500199,12961,Mazi-1,200,OK,Thread Group 1-16,text,true,,392595,141,30,30,https://cityfashion.mk/product-category/mazi/,12842,0,0
+1643794502189,11478,Mazi,200,OK,Thread Group 1-24,text,true,,392962,286,30,30,https://cityfashion.mk/product-category/mazi/,33,0,0
+1643794502189,34,Mazi-0,301,Moved Permanently,Thread Group 1-24,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,33,0,0
+1643794502223,11444,Mazi-1,200,OK,Thread Group 1-24,text,true,,392587,141,30,30,https://cityfashion.mk/product-category/mazi/,11307,0,0
+1643794501174,12722,Mazi,200,OK,Thread Group 1-21,text,true,,392970,286,30,30,https://cityfashion.mk/product-category/mazi/,12,0,0
+1643794501174,12,Mazi-0,301,Moved Permanently,Thread Group 1-21,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,12,0,0
+1643794501186,12710,Mazi-1,200,OK,Thread Group 1-21,text,true,,392595,141,30,30,https://cityfashion.mk/product-category/mazi/,12615,0,0
+1643794502336,11648,Mazi,200,OK,Thread Group 1-14,text,true,,392939,286,30,30,https://cityfashion.mk/product-category/mazi/,18,0,0
+1643794502336,18,Mazi-0,301,Moved Permanently,Thread Group 1-14,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,18,0,0
+1643794502354,11630,Mazi-1,200,OK,Thread Group 1-14,text,true,,392564,141,30,30,https://cityfashion.mk/product-category/mazi/,11530,0,0
+1643794502671,12555,Mazi,200,OK,Thread Group 1-13,text,true,,392962,286,30,30,https://cityfashion.mk/product-category/mazi/,28,0,0
+1643794502671,28,Mazi-0,301,Moved Permanently,Thread Group 1-13,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,28,0,0
+1643794502699,12527,Mazi-1,200,OK,Thread Group 1-13,text,true,,392587,141,30,30,https://cityfashion.mk/product-category/mazi/,12419,0,0
+1643794502872,12433,Mazi,200,OK,Thread Group 1-1,text,true,,392851,286,30,30,https://cityfashion.mk/product-category/mazi/,27,0,0
+1643794502872,27,Mazi-0,301,Moved Permanently,Thread Group 1-1,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,27,0,0
+1643794502899,12406,Mazi-1,200,OK,Thread Group 1-1,text,true,,392476,141,30,30,https://cityfashion.mk/product-category/mazi/,12270,0,0
+1643794502968,13068,Mazi,200,OK,Thread Group 1-6,text,true,,392970,286,30,30,https://cityfashion.mk/product-category/mazi/,24,0,0
+1643794502968,24,Mazi-0,301,Moved Permanently,Thread Group 1-6,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,24,0,0
+1643794502992,13044,Mazi-1,200,OK,Thread Group 1-6,text,true,,392595,141,30,30,https://cityfashion.mk/product-category/mazi/,12910,0,0
+1643794502838,13579,Mazi,200,OK,Thread Group 1-10,text,true,,392962,286,30,30,https://cityfashion.mk/product-category/mazi/,31,0,0
+1643794502838,31,Mazi-0,301,Moved Permanently,Thread Group 1-10,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,31,0,0
+1643794502869,13548,Mazi-1,200,OK,Thread Group 1-10,text,true,,392587,141,30,30,https://cityfashion.mk/product-category/mazi/,13461,0,0
+1643794504009,13186,Mazi,200,OK,Thread Group 1-2,text,true,,392978,286,30,30,https://cityfashion.mk/product-category/mazi/,28,0,0
+1643794504009,28,Mazi-0,301,Moved Permanently,Thread Group 1-2,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/mazi/,28,0,0
+1643794504037,13158,Mazi-1,200,OK,Thread Group 1-2,text,true,,392603,141,30,30,https://cityfashion.mk/product-category/mazi/,13061,0,0
+1643794505030,12684,Zeni,200,OK,Thread Group 1-17,text,true,,388423,286,30,30,https://cityfashion.mk/product-category/zeni/,22,0,0
+1643794505030,22,Zeni-0,301,Moved Permanently,Thread Group 1-17,text,true,,375,145,30,30,http://www.cityfashion.mk/product-category/zeni/,22,0,0
+1643794505052,12662,Zeni-1,200,OK,Thread Group 1-17,text,true,,388048,141,30,30,https://cityfashion.mk/product-category/zeni/,12561,0,0
+1643794505665,12725,Mazi,200,OK,Thread Group 1-26,text,true,,392947,286,29,29,https://cityfashion.mk/product-category/mazi/,34,0,0
+1643794505665,34,Mazi-0,301,Moved Permanently,Thread Group 1-26,text,true,,375,145,29,29,http://www.cityfashion.mk/product-category/mazi/,34,0,0
+1643794505699,12691,Mazi-1,200,OK,Thread Group 1-26,text,true,,392572,141,29,29,https://cityfashion.mk/product-category/mazi/,12592,0,0
+1643794505812,13111,Mazi,200,OK,Thread Group 1-11,text,true,,392859,286,29,29,https://cityfashion.mk/product-category/mazi/,18,0,0
+1643794505812,18,Mazi-0,301,Moved Permanently,Thread Group 1-11,text,true,,375,145,29,29,http://www.cityfashion.mk/product-category/mazi/,18,0,0
+1643794505830,13093,Mazi-1,200,OK,Thread Group 1-11,text,true,,392484,141,29,29,https://cityfashion.mk/product-category/mazi/,12913,0,0
+1643794506164,12825,Mazi,200,OK,Thread Group 1-18,text,true,,392931,286,29,29,https://cityfashion.mk/product-category/mazi/,23,0,0
+1643794506164,23,Mazi-0,301,Moved Permanently,Thread Group 1-18,text,true,,375,145,29,29,http://www.cityfashion.mk/product-category/mazi/,23,0,0
+1643794506187,12802,Mazi-1,200,OK,Thread Group 1-18,text,true,,392556,141,29,29,https://cityfashion.mk/product-category/mazi/,12573,0,0
+1643794506362,12727,Mazi,200,OK,Thread Group 1-8,text,true,,392970,286,29,29,https://cityfashion.mk/product-category/mazi/,17,0,0
+1643794506362,17,Mazi-0,301,Moved Permanently,Thread Group 1-8,text,true,,375,145,29,29,http://www.cityfashion.mk/product-category/mazi/,17,0,0
+1643794506379,12710,Mazi-1,200,OK,Thread Group 1-8,text,true,,392595,141,29,29,https://cityfashion.mk/product-category/mazi/,12612,0,0
+1643794506505,12703,Zeni,200,OK,Thread Group 1-22,text,true,,388392,286,29,29,https://cityfashion.mk/product-category/zeni/,17,0,0
+1643794506505,17,Zeni-0,301,Moved Permanently,Thread Group 1-22,text,true,,375,145,29,29,http://www.cityfashion.mk/product-category/zeni/,17,0,0
+1643794506522,12686,Zeni-1,200,OK,Thread Group 1-22,text,true,,388017,141,29,29,https://cityfashion.mk/product-category/zeni/,12551,0,0
+1643794507731,11538,Zeni,200,OK,Thread Group 1-27,text,true,,388431,286,28,28,https://cityfashion.mk/product-category/zeni/,15,0,0
+1643794507731,15,Zeni-0,301,Moved Permanently,Thread Group 1-27,text,true,,375,145,28,28,http://www.cityfashion.mk/product-category/zeni/,15,0,0
+1643794507746,11523,Zeni-1,200,OK,Thread Group 1-27,text,true,,388056,141,28,28,https://cityfashion.mk/product-category/zeni/,11398,0,0
+1643794506524,12970,Zeni,200,OK,Thread Group 1-29,text,true,,388415,286,27,27,https://cityfashion.mk/product-category/zeni/,29,0,0
+1643794506524,29,Zeni-0,301,Moved Permanently,Thread Group 1-29,text,true,,375,145,27,27,http://www.cityfashion.mk/product-category/zeni/,29,0,0
+1643794506553,12941,Zeni-1,200,OK,Thread Group 1-29,text,true,,388040,141,27,27,https://cityfashion.mk/product-category/zeni/,12839,0,0
+1643794508793,11008,Zeni,200,OK,Thread Group 1-30,text,true,,388328,286,26,26,https://cityfashion.mk/product-category/zeni/,27,0,0
+1643794508793,27,Zeni-0,301,Moved Permanently,Thread Group 1-30,text,true,,375,145,26,26,http://www.cityfashion.mk/product-category/zeni/,27,0,0
+1643794508821,10980,Zeni-1,200,OK,Thread Group 1-30,text,true,,387953,141,26,26,https://cityfashion.mk/product-category/zeni/,10860,0,0
+1643794509002,11628,Zeni,200,OK,Thread Group 1-19,text,true,,388344,286,25,25,https://cityfashion.mk/product-category/zeni/,24,0,0
+1643794509002,24,Zeni-0,301,Moved Permanently,Thread Group 1-19,text,true,,375,145,25,25,http://www.cityfashion.mk/product-category/zeni/,24,0,0
+1643794509026,11604,Zeni-1,200,OK,Thread Group 1-19,text,true,,387969,141,25,25,https://cityfashion.mk/product-category/zeni/,11474,0,0
+1643794509117,12116,Zeni,200,OK,Thread Group 1-12,text,true,,388408,286,24,24,https://cityfashion.mk/product-category/zeni/,15,0,0
+1643794509117,15,Zeni-0,301,Moved Permanently,Thread Group 1-12,text,true,,375,145,24,24,http://www.cityfashion.mk/product-category/zeni/,15,0,0
+1643794509132,12101,Zeni-1,200,OK,Thread Group 1-12,text,true,,388033,141,24,24,https://cityfashion.mk/product-category/zeni/,11990,0,0
+1643794509640,12179,Zeni,200,OK,Thread Group 1-28,text,true,,388392,286,23,23,https://cityfashion.mk/product-category/zeni/,22,0,0
+1643794509640,22,Zeni-0,301,Moved Permanently,Thread Group 1-28,text,true,,375,145,23,23,http://www.cityfashion.mk/product-category/zeni/,22,0,0
+1643794509662,12157,Zeni-1,200,OK,Thread Group 1-28,text,true,,388017,141,23,23,https://cityfashion.mk/product-category/zeni/,12047,0,0
+1643794510511,12004,Zeni,200,OK,Thread Group 1-3,text,true,,388431,286,22,22,https://cityfashion.mk/product-category/zeni/,27,0,0
+1643794510511,27,Zeni-0,301,Moved Permanently,Thread Group 1-3,text,true,,375,145,22,22,http://www.cityfashion.mk/product-category/zeni/,27,0,0
+1643794510538,11977,Zeni-1,200,OK,Thread Group 1-3,text,true,,388056,141,22,22,https://cityfashion.mk/product-category/zeni/,11876,0,0
+1643794510193,12447,Zeni,200,OK,Thread Group 1-23,text,true,,388431,286,21,21,https://cityfashion.mk/product-category/zeni/,19,0,0
+1643794510193,19,Zeni-0,301,Moved Permanently,Thread Group 1-23,text,true,,375,145,21,21,http://www.cityfashion.mk/product-category/zeni/,19,0,0
+1643794510212,12428,Zeni-1,200,OK,Thread Group 1-23,text,true,,388056,141,21,21,https://cityfashion.mk/product-category/zeni/,12320,0,0
+1643794510122,12767,Zeni,200,OK,Thread Group 1-20,text,true,,388336,286,20,20,https://cityfashion.mk/product-category/zeni/,29,0,0
+1643794510122,29,Zeni-0,301,Moved Permanently,Thread Group 1-20,text,true,,375,145,20,20,http://www.cityfashion.mk/product-category/zeni/,29,0,0
+1643794510152,12737,Zeni-1,200,OK,Thread Group 1-20,text,true,,387961,141,20,20,https://cityfashion.mk/product-category/zeni/,12591,0,0
+1643794511693,12729,Zeni,200,OK,Thread Group 1-7,text,true,,388424,286,19,19,https://cityfashion.mk/product-category/zeni/,17,0,0
+1643794511693,17,Zeni-0,301,Moved Permanently,Thread Group 1-7,text,true,,375,145,19,19,http://www.cityfashion.mk/product-category/zeni/,17,0,0
+1643794511710,12712,Zeni-1,200,OK,Thread Group 1-7,text,true,,388049,141,19,19,https://cityfashion.mk/product-category/zeni/,12595,0,0
+1643794512401,12431,Zeni,200,OK,Thread Group 1-5,text,true,,388431,286,18,18,https://cityfashion.mk/product-category/zeni/,35,0,0
+1643794512401,35,Zeni-0,301,Moved Permanently,Thread Group 1-5,text,true,,375,145,18,18,http://www.cityfashion.mk/product-category/zeni/,35,0,0
+1643794512436,12396,Zeni-1,200,OK,Thread Group 1-5,text,true,,388056,141,18,18,https://cityfashion.mk/product-category/zeni/,12305,0,0
+1643794512605,12352,Zeni,200,OK,Thread Group 1-25,text,true,,388408,286,17,17,https://cityfashion.mk/product-category/zeni/,36,0,0
+1643794512605,36,Zeni-0,301,Moved Permanently,Thread Group 1-25,text,true,,375,145,17,17,http://www.cityfashion.mk/product-category/zeni/,36,0,0
+1643794512641,12316,Zeni-1,200,OK,Thread Group 1-25,text,true,,388033,141,17,17,https://cityfashion.mk/product-category/zeni/,12189,0,0
+1643794512460,12699,Zeni,200,OK,Thread Group 1-15,text,true,,388431,286,16,16,https://cityfashion.mk/product-category/zeni/,34,0,0
+1643794512460,34,Zeni-0,301,Moved Permanently,Thread Group 1-15,text,true,,375,145,16,16,http://www.cityfashion.mk/product-category/zeni/,34,0,0
+1643794512494,12665,Zeni-1,200,OK,Thread Group 1-15,text,true,,388056,141,16,16,https://cityfashion.mk/product-category/zeni/,12570,0,0
+1643794512649,12855,Zeni,200,OK,Thread Group 1-4,text,true,,388415,286,15,15,https://cityfashion.mk/product-category/zeni/,26,0,0
+1643794512649,26,Zeni-0,301,Moved Permanently,Thread Group 1-4,text,true,,375,145,15,15,http://www.cityfashion.mk/product-category/zeni/,26,0,0
+1643794512675,12829,Zeni-1,200,OK,Thread Group 1-4,text,true,,388040,141,15,15,https://cityfashion.mk/product-category/zeni/,12728,0,0
+1643794513159,12704,Zeni,200,OK,Thread Group 1-16,text,true,,388431,286,14,14,https://cityfashion.mk/product-category/zeni/,17,0,0
+1643794513159,17,Zeni-0,301,Moved Permanently,Thread Group 1-16,text,true,,375,145,14,14,http://www.cityfashion.mk/product-category/zeni/,17,0,0
+1643794513177,12686,Zeni-1,200,OK,Thread Group 1-16,text,true,,388056,141,14,14,https://cityfashion.mk/product-category/zeni/,12592,0,0
+1643794512883,13200,Zeni,200,OK,Thread Group 1-9,text,true,,388463,286,13,13,https://cityfashion.mk/product-category/zeni/,27,0,0
+1643794512883,27,Zeni-0,301,Moved Permanently,Thread Group 1-9,text,true,,375,145,13,13,http://www.cityfashion.mk/product-category/zeni/,27,0,0
+1643794512910,13173,Zeni-1,200,OK,Thread Group 1-9,text,true,,388088,141,13,13,https://cityfashion.mk/product-category/zeni/,13015,0,0
+1643794513895,12577,Zeni,200,OK,Thread Group 1-21,text,true,,388431,286,12,12,https://cityfashion.mk/product-category/zeni/,30,0,0
+1643794513895,30,Zeni-0,301,Moved Permanently,Thread Group 1-21,text,true,,375,145,12,12,http://www.cityfashion.mk/product-category/zeni/,30,0,0
+1643794513925,12547,Zeni-1,200,OK,Thread Group 1-21,text,true,,388056,141,12,12,https://cityfashion.mk/product-category/zeni/,12454,0,0
+1643794513666,13072,Zeni,200,OK,Thread Group 1-24,text,true,,388431,286,11,11,https://cityfashion.mk/product-category/zeni/,24,0,0
+1643794513666,24,Zeni-0,301,Moved Permanently,Thread Group 1-24,text,true,,375,145,11,11,http://www.cityfashion.mk/product-category/zeni/,24,0,0
+1643794513690,13048,Zeni-1,200,OK,Thread Group 1-24,text,true,,388056,141,11,11,https://cityfashion.mk/product-category/zeni/,12926,0,0
+1643794516035,11490,Zeni,200,OK,Thread Group 1-6,text,true,,388431,286,10,10,https://cityfashion.mk/product-category/zeni/,27,0,0
+1643794516035,27,Zeni-0,301,Moved Permanently,Thread Group 1-6,text,true,,375,145,10,10,http://www.cityfashion.mk/product-category/zeni/,27,0,0
+1643794516062,11463,Zeni-1,200,OK,Thread Group 1-6,text,true,,388056,141,10,10,https://cityfashion.mk/product-category/zeni/,11286,0,0
+1643794513983,13566,Zeni,200,OK,Thread Group 1-14,text,true,,388423,286,9,9,https://cityfashion.mk/product-category/zeni/,21,0,0
+1643794513983,21,Zeni-0,301,Moved Permanently,Thread Group 1-14,text,true,,375,145,9,9,http://www.cityfashion.mk/product-category/zeni/,21,0,0
+1643794514005,13544,Zeni-1,200,OK,Thread Group 1-14,text,true,,388048,141,9,9,https://cityfashion.mk/product-category/zeni/,13407,0,0
+1643794516416,11515,Zeni,200,OK,Thread Group 1-10,text,true,,388439,286,8,8,https://cityfashion.mk/product-category/zeni/,16,0,0
+1643794516416,16,Zeni-0,301,Moved Permanently,Thread Group 1-10,text,true,,375,145,8,8,http://www.cityfashion.mk/product-category/zeni/,16,0,0
+1643794516432,11499,Zeni-1,200,OK,Thread Group 1-10,text,true,,388064,141,8,8,https://cityfashion.mk/product-category/zeni/,11403,0,0
+1643794515225,12867,Zeni,200,OK,Thread Group 1-13,text,true,,388463,286,7,7,https://cityfashion.mk/product-category/zeni/,25,0,0
+1643794515225,25,Zeni-0,301,Moved Permanently,Thread Group 1-13,text,true,,375,145,7,7,http://www.cityfashion.mk/product-category/zeni/,25,0,0
+1643794515250,12842,Zeni-1,200,OK,Thread Group 1-13,text,true,,388088,141,7,7,https://cityfashion.mk/product-category/zeni/,12747,0,0
+1643794515305,13071,Zeni,200,OK,Thread Group 1-1,text,true,,388360,286,6,6,https://cityfashion.mk/product-category/zeni/,22,0,0
+1643794515305,22,Zeni-0,301,Moved Permanently,Thread Group 1-1,text,true,,375,145,6,6,http://www.cityfashion.mk/product-category/zeni/,22,0,0
+1643794515327,13049,Zeni-1,200,OK,Thread Group 1-1,text,true,,387985,141,6,6,https://cityfashion.mk/product-category/zeni/,12915,0,0
+1643794517194,11592,Zeni,200,OK,Thread Group 1-2,text,true,,388423,286,5,5,https://cityfashion.mk/product-category/zeni/,29,0,0
+1643794517194,30,Zeni-0,301,Moved Permanently,Thread Group 1-2,text,true,,375,145,5,5,http://www.cityfashion.mk/product-category/zeni/,29,0,0
+1643794517224,11562,Zeni-1,200,OK,Thread Group 1-2,text,true,,388048,141,5,5,https://cityfashion.mk/product-category/zeni/,11465,0,0
+1643794518924,10111,Zeni,200,OK,Thread Group 1-11,text,true,,388368,286,4,4,https://cityfashion.mk/product-category/zeni/,19,0,0
+1643794518924,19,Zeni-0,301,Moved Permanently,Thread Group 1-11,text,true,,375,145,4,4,http://www.cityfashion.mk/product-category/zeni/,19,0,0
+1643794518943,10092,Zeni-1,200,OK,Thread Group 1-11,text,true,,387993,141,4,4,https://cityfashion.mk/product-category/zeni/,9971,0,0
+1643794518990,10483,Zeni,200,OK,Thread Group 1-18,text,true,,388384,286,3,3,https://cityfashion.mk/product-category/zeni/,31,0,0
+1643794518990,31,Zeni-0,301,Moved Permanently,Thread Group 1-18,text,true,,375,145,3,3,http://www.cityfashion.mk/product-category/zeni/,31,0,0
+1643794519021,10452,Zeni-1,200,OK,Thread Group 1-18,text,true,,388009,141,3,3,https://cityfashion.mk/product-category/zeni/,10300,0,0
+1643794518390,11313,Zeni,200,OK,Thread Group 1-26,text,true,,388415,286,2,2,https://cityfashion.mk/product-category/zeni/,18,0,0
+1643794518390,18,Zeni-0,301,Moved Permanently,Thread Group 1-26,text,true,,375,145,2,2,http://www.cityfashion.mk/product-category/zeni/,18,0,0
+1643794518409,11294,Zeni-1,200,OK,Thread Group 1-26,text,true,,388040,141,2,2,https://cityfashion.mk/product-category/zeni/,11200,0,0
+1643794519089,11039,Zeni,200,OK,Thread Group 1-8,text,true,,388463,286,1,1,https://cityfashion.mk/product-category/zeni/,33,0,0
+1643794519089,33,Zeni-0,301,Moved Permanently,Thread Group 1-8,text,true,,375,145,1,1,http://www.cityfashion.mk/product-category/zeni/,33,0,0
+1643794519122,11006,Zeni-1,200,OK,Thread Group 1-8,text,true,,388088,141,1,1,https://cityfashion.mk/product-category/zeni/,10910,0,0
